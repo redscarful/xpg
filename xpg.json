@@ -545,13 +545,6 @@
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     
 "lives": [
-{"name": "流年TV直播","type": 0,"ua": "okhttp","url": "https://tvv.tw/https://raw.githubusercontent.com/taoBox2620/taoBox2620/main/log.png"},
-{"name": "涛涛TV直播","type": 0,"ua": "okhttp","url": "http://38.75.136.137:88/api/tvlist.php"},
-{"name": "咪咕TV直播","type": 0,"ua": "okhttp","url": "http://www.52top.com.cn:678/downloads/migu.txt"},
-{"name": "裤佬TV直播","type": 0,"ua": "okhttp","url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
-{"name": "小米TV直播","type": 0,"ua": "okhttp","url": "http://47.120.41.246:8899/xinzb.txt"},
-{"name": "王子TV直播","type": 0,"ua": "okhttp","url": "http://wangziduoqing.com/yuan/zb.txt"},
-{"name": "宝藏TV直播","type": 0,"ua": "okhttp","url": "https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt"},
          {
             "name": "海豚TV直播",
             "type": 0,
@@ -582,9 +575,7 @@
 {"name": "日后TV直播","type": 0,"ua": "okhttp/3.15","url":"http://rihou.cc:555/gggg.nzk","playerType": 2,"ua": "okhttp/3","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
 {"name": "天下TV直播","type": 0,"ua": "okhttp/3.15","url": "https://ilook.epg.one/5CM5SY98BF24PL/2"},
 {"name": "易发TV直播","type": 0,"ua": "okhttp/3.15","url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"},
-{"name": "央视TV直播","type": 0,"ua": "okhttp/3.15","url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"},
-
-
+{"name": "央视TV直播","type": 0,"ua": "okhttp/3.15","url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"}
     ],
     "parses": [
         {
