@@ -547,13 +547,13 @@
 "lives": [
 
          {
-            "name": "🌌海豚TV直播",
+            "name": "海豚直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
         }, 
         {
-            "name": "🌌中港TV直播",
+            "name": "中港直播",
             "type": 0,
             "ua": "okhttp",
             "url": "https://t.freetv.fun/m3u/playlist.txt"
