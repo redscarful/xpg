@@ -1,12 +1,16 @@
 {
     "sites": [
         {
-            "key": "豆瓣",
-            "name": "🔍豆瓣(请勿相信影片中广告，仅供学习交流，不涉及版权)",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
+          "key":"裤佬豆瓣片单",
+          "name":"豆瓣┃推荐",
+          "type":3,
+          "api":"csp_Douban",
+          "jar":"./001.jar",
+          "searchable": 1,
+          "quickSearch":0,
+          "filterable": 1,
+          "ext":"./3.txt"
+      },
         {
             "key": "ai1",
             "name": "🔍小苹果荐片",
