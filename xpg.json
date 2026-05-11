@@ -12,44 +12,27 @@
           "ext":"./3.txt"
       },
         {
+            "key": "WexReBo",
+            "name": "热播┃秒播",
+            "type": 3,
+            "api": "csp_WexReBoGuard",
+            "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "WexHanXiaoQuan",
-            "name": "💥韩剧┃秒播💥",
+            "name": "韩剧┃秒播",
             "type": 3,
             "api": "csp_WexHanXiaoQuanGuard",
             "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "WexGuaZi",
-            "name": "💥瓜子┃秒播💥",
-            "type": 3,
-            "api": "csp_WexGuaZiGuard",
-            "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "賤賤",
-            "name": "💥贱片┃秒播💥",
-            "type": 3,
-            "api": "csp_WexJianPianGuard",
-            "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "WexWenCai",
-            "name": "💥文才┃秒播💥",
-            "type": 3,
-            "api": "csp_WexWenCaiGuard",
-            "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
-            "searchable": 1,
-            "changeable": 1
-        },
+
         {
             "key": "WexDuBoKu",
-            "name": "💥独播┃秒播💥",
+            "name": "独播┃秒播",
             "type": 3,
             "api": "csp_WexDuBoKuGuard",
             "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
@@ -58,7 +41,7 @@
         },
         {
             "key": "WexYueYue",
-            "name": "💥闪电┃秒播💥",
+            "name": "闪电┃秒播",
             "type": 3,
             "api": "csp_WexYueYueGuard",
             "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
@@ -67,25 +50,17 @@
         },
         {
             "key": "WexYiYs",
-            "name": "💥伊影┃秒播💥",
+            "name": "伊影┃秒播",
             "type": 3,
             "api": "csp_WexYiYsGuard",
             "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "WexReBo",
-            "name": "💥热播┃秒播💥",
-            "type": 3,
-            "api": "csp_WexReBoGuard",
-            "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
-            "searchable": 1,
-            "changeable": 1
-        },
+        
         {
             "key": "WexBoBo",
-            "name": "🎇伯伯┃秒播🎇",
+            "name": "伯伯┃秒播",
             "type": 3,
             "api": "csp_WexBoBoGuard",
             "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
@@ -94,7 +69,7 @@
         },
         {
             "key": "WexBtTwo",
-            "name": "🎇鼻涕┃秒播🎇",
+            "name": "鼻涕┃秒播",
             "type": 3,
             "api": "csp_WexBtTwoGuard",
             "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
@@ -103,7 +78,7 @@
         },
         {
             "key": "新6V",
-            "name": "🎇新6V┃磁力🎇",
+            "name": "新6V┃磁力",
             "type": 3,
             "api": "csp_WexXb6vGuard",
             "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
@@ -112,7 +87,7 @@
         },
         {
             "key": "WexIkanBot",
-            "name": "🎇爱看┃采集🎇",
+            "name": "爱看┃采集",
             "type": 3,
             "api": "csp_WexIkanBotGuard",
             "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
