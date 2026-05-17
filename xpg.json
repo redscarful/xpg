@@ -565,8 +565,17 @@
             "name": "中港直播",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://t.freetv.fun/m3u/playlist.txt"
+            "u
+            rl": "https://t.freetv.fun/m3u/playlist.txt"
         },
+    {
+        "name": "jackTV",
+        "type":0,
+        "url":"https://php.946985.filegear-sg.me/jackTV.m3u",
+        "ua": "",
+        "timeout": 10,
+        "playerType": 2
+    },
     {
             "type": 0,
             "name": "咪咕标清",
