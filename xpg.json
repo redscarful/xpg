@@ -40,15 +40,6 @@
             "changeable": 1
         },
         {
-            "key": "WexYueYue",
-            "name": "闪电┃秒播",
-            "type": 3,
-            "api": "csp_WexYueYueGuard",
-            "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "WexYiYs",
             "name": "伊影┃秒播",
             "type": 3,
