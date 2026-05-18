@@ -607,7 +607,7 @@
             "url": "http://www.52top.com.cn:678/downloads/migu.txt",
             "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
     "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
-        },
+        }
    
 
     ],
