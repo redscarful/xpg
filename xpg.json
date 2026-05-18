@@ -560,54 +560,8 @@
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
-        }, 
-    {
-            "type": 0,
-            "name": "裤佬",
-            "playerType":2,
-            "ua": "okhttp/3.15",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
-            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
-        },
-    {
-            "type": 0,
-            "name": "潇雨",
-            "playerType":2,
-            "ua": "okhttp/3.15",
-            "url": "https://ds65.tv1288.xyz",
-            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
-        },
-    {
-            "type": 0,
-            "name": "风云",
-            "playerType":2,
-            "ua": "okhttp/3.15",
-            "url": "http://iptv.4666888.xyz/FYTV.txt",
-            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
-        },
-    {
-            "type": 0,
-            "name": "宫殿",
-            "playerType":2,
-            "ua": "okhttp/3.15",
-            "url": "https://gongdian.top/tv/iptv",
-            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
-        },
-    
-    
-    {
-            "type": 0,
-            "name": "咪咕标清",
-            "playerType":2,
-            "ua": "okhttp/3.15",
-            "url": "http://www.52top.com.cn:678/downloads/migu.txt",
-            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
         }
+   
    
 
     ],
