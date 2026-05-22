@@ -11,6 +11,18 @@
           "filterable": 1,
           "ext":"./3.txt"
       },
+        {
+            "name": "应用下载",
+            "key": "NewTv下载",
+            "type": 3,
+            "api": "csp_GitHubAmns",
+            "jar": "http://mytv6688.xyz/aowu/bfdb--cvdvds.png;md5;4f0bc872e881db044d3ef019e0efc77d",
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "http://mytv6688.xyz/aowu/json/github.json"
+        },
          
         {
             "key": "WexReBo",
