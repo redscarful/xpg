@@ -1,13 +1,16 @@
 {
     "sites": [
         {
-            "key": "豆瓣jar",
-            "name": "豆瓣┃荐片",
-            "type": 3,
-            "api": "csp_Douban",
-            "jar": "http://jar.jsy666.xyz/box/20250824.jar;md5;1099f9cedab19f487ac8fc283d9ca447",
-            "searchable": 0
-        },
+          "key":"裤佬豆瓣片单",
+          "name":"豆瓣┃推荐",
+          "type":3,
+          "api":"csp_Douban",
+          "jar":"./001.jar",
+          "searchable": 1,
+          "quickSearch":0,
+          "filterable": 1,
+          "ext":"./3.txt"
+      },
 
         {
             "key": "WexReBo",
@@ -308,7 +311,7 @@
       "name": "🎎戏曲┃秒播🎎",
       "type": 3,
       "api": "csp_MusicLiYuanGuard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -321,7 +324,7 @@
       "name": "🎼蜻蜓┃电台🎼",
       "type": 3,
       "api": "csp_MusicQingTingGuard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
       "searchable": 1,
       "changeable": 0
     },
@@ -330,7 +333,7 @@
       "name": "🎼KTV┃音乐🎼",
       "type": 3,
       "api": "csp_MusicIKtvGuard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",  
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",  
       "searchable": 1,
       "changeable": 0
     },
@@ -339,7 +342,7 @@
       "name": "🎼易听┃音乐🎼",
       "type": 3,
       "api": "csp_Music163Guard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",  
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",  
       "searchable": 1,
       "changeable": 0
     },
@@ -348,7 +351,7 @@
       "name": "🎼酷听┃音乐🎼",
       "type": 3,
       "api": "csp_MusicKuWoGuard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",  
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",  
       "searchable": 1,
       "changeable": 0
     },
@@ -357,7 +360,7 @@
       "name": "🎼轮回┃舞曲🎼",
       "type": 3,
       "api": "csp_MusicLunHuiGuard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",  
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",  
       "searchable": 1,
       "changeable": 0
     },
@@ -366,7 +369,7 @@
       "name": " 🅱‍哔哩┃影视🅱‍",
       "type": 3,
       "api": "csp_NewBiLiYSGuard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",  
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -378,7 +381,7 @@
       "name": " 🅱‍哔哩┃合集🅱‍",
       "type": 3,
       "api": "csp_BiliGuard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",  
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -396,7 +399,7 @@
       "name": " 🅱‍哔哩┃戏曲🅱‍",
       "type": 3,
       "api": "csp_BiliGuard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",  
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -414,7 +417,7 @@
       "name": " 🅱‍哔哩┃歌曲🅱‍",
       "type": 3,
       "api": "csp_BiliGuard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",  
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -432,7 +435,7 @@
       "name": "📚少儿┃教育📚",
       "type": 3,
       "api": "csp_BiliGuard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",  
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",  
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -449,7 +452,7 @@
       "name": "📚小学┃课堂📚",
       "type": 3,
       "api": "csp_BiliGuard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",  
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",  
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -466,7 +469,7 @@
       "name": "📚初中┃课堂📚",
       "type": 3,
       "api": "csp_BiliGuard",
-        "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+        "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -483,7 +486,7 @@
       "name": "📚高中┃课堂📚",
       "type": 3,
       "api": "csp_BiliGuard",
-      "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",  
+      "jar": "https://nos.netease.com/ysf/ef68d86a5e19c5b88c6ef09527e7ace2.txt;md5;03a6211a751367f46f1704a8b1d10d36",  
       "style": {
         "type": "rect",
         "ratio": 1.597
