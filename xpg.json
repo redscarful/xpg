@@ -87,17 +87,6 @@
             "changeable": 1
         },
         {
-            "name": "⭐夏天|秒播",
-            "key": "NewGrV2",
-            "type": 3,
-            "api": "csp_NewGrV2Amns",
-            "jar":"http://mytv6688.xyz/aowu/bfdb--cvdvds.png;md5;f7ee6fddfaff5ab9e0b397d09664a6c8",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "efef288565eb2ea7fcb9caa81e70fad5b9a3d290f7e7066e286ddee6884c813c8802cb583323f2d3e4d2a9112a38a062473f4b440cf9c65a4fd79ac6d02f202ef54326bbcd77f97cd8bb80c8d84661386dfd9968cafc2cefcca8b249ebbed4e4f32b9397064a17e66b7fc6003ab8e40b0ed5f7a748e8bc1b1564a5bf5ee0640f0dac483c2ac19d12a5b930c3d77438d9f34b6dc5dfaed4453ff55a14d32cb22bce4275e4185807a024a73ac3efe7bea3f20b6c15215131a9c4b800fa5820f80db5f9522cd2d65578180e03fa3009a73dd090579c25c975e134173dc51d621898934a3ba5161819f0d2285ccad7bede9a8b8a0912db445796b34b135c41786a59dfe81034c4b4d67a082406da3d83e51baf8957c2c79cf5fb3a7d6cab1ec2fdd3698531651c6a704f9d90e9d1"
-        },
-        {
             "key": "LiveHuYa",
             "name": "🐯‍虎牙┃直播🐯‍",
             "type": 3,
