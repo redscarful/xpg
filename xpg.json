@@ -606,7 +606,7 @@
             "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
     "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
         },
-    
+    {
             "type": 0,
             "name": "咪咕标清",
             "playerType":2,
