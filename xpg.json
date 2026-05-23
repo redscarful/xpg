@@ -704,14 +704,6 @@
             "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u",
     "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
         },
-         {
-            "type": 0,
-            "name": "MURSOR-哔哩哔哩",
-            "playerType": 2,
-            "ua": "okHttp/Mod-1.5.0.0",
-            "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u",
-    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
-        },
 
          {
             "name": "海豚直播",
