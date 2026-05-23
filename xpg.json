@@ -556,6 +556,46 @@
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     
 "lives": [
+    {
+            "type": 0,
+            "name": "MURSOR-iptv",
+            "playerType": 2,
+            "ua": "okHttp/Mod-1.5.0.0",
+            "url": "https://live.ottiptv.cc/iptv.m3u?userid=956100761&sign=dd72be68e873d4961da115afc2c4e2d71ff581408e554458e4fd7fbee73cc54151f61b1df0afcd92517249b0e7d4bfc700cd24ebab2f08aa9f72e8f4aa4cf38c055e4e8f917c&auth_token=94b21073ca969557ba76522e52de1128",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+         {
+            "type": 0,
+            "name": "MURSOR-歪歪",
+            "playerType": 2,
+            "ua": "okHttp/Mod-1.5.0.0",
+            "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+        {
+            "type": 0,
+            "name": "MURSOR-虎牙",
+            "playerType": 2,
+            "ua": "okHttp/Mod-1.4.0.0",
+            "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+        {
+            "type": 0,
+            "name": "MURSOR-斗鱼",
+            "playerType": 2,
+            "ua": "okHttp/Mod-1.5.0.0",
+            "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+         {
+            "type": 0,
+            "name": "MURSOR-哔哩哔哩",
+            "playerType": 2,
+            "ua": "okHttp/Mod-1.5.0.0",
+            "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
 
          {
             "name": "海豚直播",
