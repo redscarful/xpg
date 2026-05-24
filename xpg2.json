@@ -5,7 +5,7 @@
   "warningText": "接口完全免费，切勿贩卖购买",
   "lives": [
     {
-      "name": "migu(优)",
+      "name": "咪咕",
       "type": 0,
       "url": "https://fastgit.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "timeout": 10,
@@ -50,15 +50,16 @@
   ],
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "🍥┃豆瓣┃仅供测试，请于测试完毕后24小时删除🍥",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "changeable": 1,
-      "indexs": 1,
-      "jar": "https://ncstatic.clewm.net/rsrc/2026/0508/12/fa4fb98f628143fd9f8e6c921bbf925f.png;md5;552795D869EE1E3CDE4E232AF9B2E868"
-    },
+          "key":"裤佬豆瓣片单",
+          "name":"豆瓣┃推荐",
+          "type":3,
+          "api":"csp_Douban",
+          "jar":"./001.jar",
+          "searchable": 1,
+          "quickSearch":0,
+          "filterable": 1,
+          "ext":"./3.txt"
+      },
     {
       "key": "网盘配置",
       "name": "🍭┃配置┃中心",
