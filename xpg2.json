@@ -87,11 +87,11 @@
           "name":"豆瓣┃推荐",
           "type":3,
           "api":"csp_Douban",
-          "jar":"./001.jar",
+          "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/001.jar",
           "searchable": 1,
           "quickSearch":0,
           "filterable": 1,
-          "ext":"./3.txt"
+          "ext":"https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/3.txt"
       },
     {
       "key": "网盘配置",
