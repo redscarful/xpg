@@ -114,14 +114,6 @@
           "ext":"./3.txt"
       },
 
- {
-            "key": "豆瓣2",
-            "name": "豆瓣┃推荐",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
- 
     {
             "key": "配置中心",
             "name": "配置┃中心",
@@ -134,14 +126,7 @@
                 "ratio": 1.597
             }
         },
-    {
-            "key": "芒果",
-            "name": "芒果┃App",
-            "type": 3,
-            "playerType": "2",
-            "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-            "ext": "https://tvbox.catvod.com/js/mgtv.js"
-        },
+
     {
             "key": "热播App",
             "name": "热播┃App",
