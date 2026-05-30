@@ -11,6 +11,12 @@
         "url": "http://80.251.211.5:7777/NewTV_44120_159220.apk",
         "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/1.png",
         "version": "福利密码6个8"
+      },
+{
+        "name": "下载失败请扫码下载",
+        "url": "http://80.251.211.5:7777/NewTV_44120_159220.apk",
+        "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/123.png",
+        "version": "复制网址浏览器打开"
       }
     ]
   }
