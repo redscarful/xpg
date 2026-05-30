@@ -449,413 +449,247 @@
             }
         },
         {
-            "key": "哔️软件",
-            "name": "🅰️软件┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/软件教程.json"
-            },
-            "style": {
+      "key": "沙雕哔哩",
+      "name": "🅱️合集┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/bilibili.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
+    },
+
+         {
+      "key": "软件哔哩",
+      "name": "🅱️软件┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/软件教程.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+    {
+      "key": "合集哔哩",
+      "name": "🅱️大全┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/bili.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+
         {
-            "key": "哔哩学堂",
-            "name": "🅰学堂┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/学堂教育.json"
-            },
-            "style": {
+      "key": "音乐哔哩",
+      "name": "🅱️音乐┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/音乐现场.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "哔哩少儿",
-            "name": "🅰少儿┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/少儿合集.json"
-            },
-            "style": {
+    },
+    {
+      "key": "美食哔哩",
+      "name": "🅱️美食┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/美食天地.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "️小学",
-            "name": "🅰️小学┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小学课堂.json"
-            },
-            "style": {
+    },
+    {
+      "key": "戏曲哔哩",
+      "name": "🅱️戏曲┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/戏曲合集.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "️初中",
-            "name": "🅰️初中┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/初中课堂.json"
-            },
-            "style": {
+    },
+    {
+      "key": "学习哔哩",
+      "name": "🅱️学习┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/学习园地.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "️高中",
-            "name": "🅰️高中┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/高中课堂.json"
-            },
-            "style": {
+    },
+    {
+      "key": "女团哔哩",
+      "name": "🅱️女团┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/女团热舞.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "口才",
-            "name": "🧒口才┃儿童",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童口才.json"
-            },
-            "style": {
+    },
+    {
+      "key": "体育哔哩",
+      "name": "🅱️体育┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/体育赛事.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "拼音",
-            "name": "🧒拼音┃儿童",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童拼音.json"
-            },
-            "style": {
+    },
+    {
+      "key": "小品哔哩",
+      "name": "🅱️相声┃小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/xiaopin.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "识字",
-            "name": "🧒识字┃儿童",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童识字.json"
-            },
-            "style": {
+    },
+    {
+      "key": "小品哔哩",
+      "name": "🅱️歌曲┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/mtv.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "思维",
-            "name": "🧒思维┃儿童",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童思维.json"
-            },
-            "style": {
+    },
+    {
+      "key": "儿童哔哩",
+      "name": "🅱️儿童┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/儿童乐园.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "英语",
-            "name": "🧒英语┃儿童",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童英语.json"
-            },
-            "style": {
+    },
+    {
+      "key": "幼儿哔哩",
+      "name": "🅱️幼儿┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/youer.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "科学",
-            "name": "🧒科学┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小灯塔科学.json"
-            },
-            "style": {
+    },
+     {
+      "key": "小学哔哩",
+      "name": "🅱️小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/小学课堂.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "国学",
-            "name": "🧒国学┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小灯塔国学.json"
-            },
-            "style": {
+    },
+    {
+      "key": "初中哔哩",
+      "name": "🅱️初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/初中课堂.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "地理",
-            "name": "🧒地理┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小灯塔地理.json"
-            },
-            "style": {
+    },
+    {
+      "key": "高中哔哩",
+      "name": "🅱️高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/高中课堂.json",
+      "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "编程",
-            "name": "🧒编程┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童编程.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "武术",
-            "name": "🧒武术┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/儿童武术.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "csp_BBB",
-            "name": "🅱️套餐┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/哔哩套餐1.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "csp_111BB",
-            "name": "🅱️套餐2┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/哔哩套餐2.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "歌曲",
-            "name": "🌈歌曲┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/歌曲MV.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "美食",
-            "name": "🌈美食┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/美食.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "球类",
-            "name": "⚽️球类┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/球类合集.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "️球星",
-            "name": "⚽️球星┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/球星合集.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "️演唱",
-            "name": "🅰️演唱┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/演唱会.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "️戏曲",
-            "name": "🅰️戏曲┃哔哩",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/戏曲合集.json"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
+    },
         {
             "key": "急救教学",
             "name": "🚑急救｜教学",
