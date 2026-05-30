@@ -113,6 +113,15 @@
           "filterable": 1,
           "ext":"./3.txt"
       },
+        {
+            "key": "应用商店",
+            "name": "港澳最稳NewTV下载",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./6.txt"
+        },
 
     {
             "key": "配置中心",
