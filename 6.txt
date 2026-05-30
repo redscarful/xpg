@@ -13,22 +13,5 @@
         "version": "福利密码6个8"
       }
     ]
-  },
-{ 
-"name": "小苹果破解版4.0",
-    "list": [
-      {
-        "name": "小苹果破解版",
-        "url": "https://res.yecao.net/yc-38/3/apk/2026/05/29/2060109779045031936.apk?timestamp=1780111092&md5hash=330614a1e57e82de850954719ab302dc",
-        "icon": "https://file.yecao.net/yc-38/3/icon/2026/05/29/2060109829627731968.png?x-image-process=style/style-b5b2",
-        "version": "福利密码6个8"
-      },
-{
-        "name": "千寻直播",
-        "url": "https://res1.yecao.net/yc-38/3/apk/2026/05/17/2055903985005088768.apk?timestamp=1780111182&md5hash=9289e25998d6e8d2607eead86a1566c9",
-        "icon": "https://file.yecao.net/yc-38/3/icon/2026/05/17/2055903997852241920.png?x-image-process=style/style-b5b2",
-        "version": "版本1.15"
-      },
-    ]
   }
 ]
