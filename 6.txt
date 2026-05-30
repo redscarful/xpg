@@ -4,12 +4,15 @@
     "name": "应用",
     "list": []
   },
-  { "name": "NewTv下载",
+  { "name": "NewTV港澳腰疼三合一",
     "list": [
       {
-        "name": "NEW TV",
+        "name": "NewTv",
         "url": "http://80.251.211.5:7777/NewTV_44120_159220.apk",
         "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/1.png",
         "version": "福利密码6个8"
       }
+
+    ]
+  }
 ]
