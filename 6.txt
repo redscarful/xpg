@@ -1,12 +1,59 @@
 [
   {
-    "name": "NewTv下载",
+    "name": "推荐",
     "list": [
       {
-        "name": "NewTv下载",
-        "url": "http://80.251.211.5:7777/NewTV_44120_159220.apk",
+        "name": "九拆福利",
+        "url": "https://ncstatic-file.clewm.net/rsrc/2025/1001/20/46c464b1169e6c826eb07be9653f00df.jpeg",
         "icon": "https://ncstatic-file.clewm.net/rsrc/2025/1001/20/46c464b1169e6c826eb07be9653f00df.jpeg",
         "version": ""
+      },
+      {
+        "name": "免费领大流量卡",
+        "url": "https://ncstatic-file.clewm.net/rsrc/2025/1001/20/c8a1b27a8787a40de6281b2d183e41ae.jpg",
+        "icon": "https://ncstatic-file.clewm.net/rsrc/2025/1001/20/c8a1b27a8787a40de6281b2d183e41ae.jpg",
+        "version123": ""
+      }
+    ]
+  },
+  {
+    "name": "an装🅱na多线路本地包在线更新",
+    "list": [
+      {
+        "name": "an装🅱na多线路本地包",
+        "url": "https://tv.nxog.top/ou.php/d/tvbox.zip?t=3600&u=aHR0cHM6Ly94bi0tZGt3MGMudi5ueG9nLnRvcC90dmJveC5qcGc%253D&m=d",
+        "icon": "http://127.0.0.1:9978/file/tvbox/.版本号.png",
+        "version": "防失效线上包05-30"
+      },
+      {
+        "name": "an装🅱na备用本地包1",
+        "url": "https://by1.430520.xyz/ou.php/d/tvbox.zip?t=3600&u=aHR0cHM6Ly8xLnYubnhvZy50b3AvdHZib3guanBn&m=d",
+        "icon": "https://by1.430520.xyz/tvbox/.版本号.png",
+        "version": "备用1防失效被屏蔽"
+      },
+      {
+        "name": "an装🅱na备用本地包2",
+        "url": "https://by2.nxog.fun/ou.php/d/tvbox.zip?t=3600&u=aHR0cHM6Ly8xLnYubnhvZy50b3AvdHZib3guanBn&m=d",
+        "icon": "https://by2.nxog.fun/tvbox/.版本号.png",
+        "version": "备用2防失效被屏蔽"
+      },
+      {
+        "name": "九拆福利",
+        "url": "https://ncstatic-file.clewm.net/rsrc/2025/1001/20/46c464b1169e6c826eb07be9653f00df.jpeg",
+        "icon": "https://ncstatic-file.clewm.net/rsrc/2025/1001/20/46c464b1169e6c826eb07be9653f00df.jpeg",
+        "version": ""
+      },
+      {
+        "name": "关注公众号",
+        "url": "https://ncstatic-file.clewm.net/rsrc/2025/1002/00/24be861cbb6bfd587f9872c84235e6b7.png",
+        "icon": "https://ncstatic-file.clewm.net/rsrc/2025/1002/00/24be861cbb6bfd587f9872c84235e6b7.png",
+        "version": ""
+      },
+      {
+        "name": "免费领大流量卡",
+        "url": "https://ncstatic-file.clewm.net/rsrc/2025/1001/20/c8a1b27a8787a40de6281b2d183e41ae.jpg",
+        "icon": "https://ncstatic-file.clewm.net/rsrc/2025/1001/20/c8a1b27a8787a40de6281b2d183e41ae.jpg",
+        "version123": ""
       }
     ]
   }
