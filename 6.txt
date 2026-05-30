@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NewTv下载",
+    "list": [
+      {
+        "name": "NewTv下载",
+        "url": "http://80.251.211.5:7777/NewTV_44120_159220.apk",
+        "icon": "https://ncstatic-file.clewm.net/rsrc/2025/1001/20/46c464b1169e6c826eb07be9653f00df.jpeg",
+        "version": ""
+      }
+    ]
+  }
+]
