@@ -18,6 +18,12 @@
         "url": "",
         "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/1234.png",
         "version": "复制网址浏览器打开"
+      },
+{
+        "name": "电视直播",
+        "url": "https://dl.yecao.net/yc-84/3/apk/2026/05/16/2055482200321236992.apk?timestamp=1780198102&md5hash=397034f9c501d08c08e1409cd699d2f1",
+        "icon": "https://file.yecao.net/yc-84/3/icon/2026/05/16/2055482234538369024.png2",
+        "version": ""
       }
     ]
   }
