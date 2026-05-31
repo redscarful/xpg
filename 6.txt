@@ -24,6 +24,12 @@
         "url": "https://dl.yecao.net/yc-84/3/apk/2026/05/16/2055482200321236992.apk?timestamp=1780198102&md5hash=397034f9c501d08c08e1409cd699d2f1",
         "icon": "https://file.yecao.net/yc-84/3/icon/2026/05/16/2055482234538369024.png",
         "version": ""
+      },
+{
+        "name": "小苹果TV",
+        "url": "https://dl.yecao.net/yc-55/3/apk/2026/05/18/2056249267391164416.apk?timestamp=1780199069&md5hash=6493774eee3b8b81549ffcb9e566ed40",
+        "icon": "https://file.yecao.net/yc-55/3/icon/2026/05/18/2056249290988797952.png",
+        "version": "内置40条线路"
       }
     ]
   }
