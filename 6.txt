@@ -62,7 +62,7 @@
       },
 {
         "name": "小红帽管家",
-        "url": "https://m509.lanosso.com:446/05311300288599705bb/2026/05/31/1eb5f92430c270b3aaadeb168fa306ab.apk?st=W6QEu_upTrUruQuvkdLNpA&e=1780209107&b=VeILu1PcU7FQv1SgBrMAvAHpAHIGZlEnVm4_c&fi=288599705&pid=27-222-73-50&up=2&mp=0&co=0",
+        "url": "https://m509.lanosso.com:446/05311400288599705bb/2026/05/31/1eb5f92430c270b3aaadeb168fa306ab.apk?st=W0Dj7n2euDWE9vcFqCcKLg&e=1780211177&b=BrENvQKNAOIC7VejArdV6VG5DnwFZVAmAzs_c&fi=288599705&pid=27-222-73-50&up=2&mp=0&co=0",
         "icon": "https://pdf2.webgetstore.com/2026/05/31/0ae13771dbfab77b412868b001b95eac.jpg?sg=50bce55d7c2389be210cdae1cd0ce183&e=6a1bce54&fileName=2032055165548859392.jpg&fi=288600345",
         "version": "软件管家"
       }
