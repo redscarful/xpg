@@ -16,55 +16,55 @@
         "name": "下载失败请扫码下载",
         "url": "",
         "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/1234.png",
-        "version": "复制网址浏览器打开"
+        "version": "复制网址浏览器打开",
       },
 {
         "name": "电视直播",
         "url": "https://m707.lanosso.com:446/05311400288599867bb/2026/05/31/145cb586204e3bb4a0b9370ef2df3080.apk?st=TbauVCwI6t7EJ0pzZDA3Tw&e=1780209427&b=A7ZbzwC1BOlYqlGBUOcFmlW0CHkDLABnCSpdOw_c_c&fi=288599867&pid=27-222-73-50&up=2&mp=0&co=0",
         "icon": "https://file.yecao.net/yc-84/3/icon/2026/05/16/2055482234538369024.png",
-        "version": "支持语音"
+        "version": "支持语音",
       },
 {
         "name": "小苹果TV",
         "url": "https://m208.lanosso.com:446/05311400288599812bb/2026/05/31/08ce5f7c213535d0c8a83626beb3ee8a.apk?st=7pOgGJnDTz_j-owVHErpRw&e=1780209390&b=UeYNvQKNUL1QjgPsUuQEngXMCCBWIQIqBjQAfVww&fi=288599812&pid=27-222-73-50&up=2&mp=0&co=0",
         "icon": "https://file.yecao.net/yc-55/3/icon/2026/05/18/2056249290988797952.png",
-        "version": "内置40条线路"
+        "version": "内置40条线路",
       },
 {
         "name": "千寻直播",
         "url": "https://m106.lanosso.com:446/05311400288599781bb/2026/05/31/2abf0369f71f8a7654c53b2d323c87ed.apk?st=hnBTzWh4ecdDT41eb3BwjQ&e=1780209367&b=BbJe01XWUbED_bVW4BLNVylS1D35RflA3UnFbPQ_c_c&fi=288599781&pid=27-222-73-50&up=2&mp=0&co=0",
         "icon": "https://file.yecao.net/yc-55/3/icon/2026/05/17/2055903997852241920.png",
-        "version": "支持语音换台"
+        "version": "支持语音换台",
       },
 {
         "name": "宝宝巴士儿歌",
         "url": "https://m106.lanosso.com:446/05311400288599771bb/2026/05/31/3a8449d0c1164fa159531891d1224dab.apk?st=xzrLrMjKAOD3vuDnb3gvxg&e=1780209340&b=U_bQMogSZAOAE_a1CbB7JQ41GwCrMDoQGsBHkAbF0qB24_c&fi=288599771&pid=27-222-73-50&up=2&mp=0&co=0",
         "icon": "https://file.yecao.net/yc-84/3/icon/2024/12/08/1865742332872704000.png",
-        "version": "儿歌动画"
+        "version": "儿歌动画",
       },
 {
         "name": "淘知学堂",
         "url": "https://m808.lanosso.com:446/05311400288599758bb/2026/05/31/a9bf01124c1e9b596c0017466cdf44d5.apk?st=edH9V9kOauB8EoaTN0hPJA&e=1780209315&b=VeEJvlfPVLZVn1KhC75Q_bQHyDrcFpAOHCHUOYgZxBWw_c&fi=288599758&pid=27-222-73-50&up=2&mp=0&co=0",
         "icon": "https://file.yecao.net/yc-84/3/icon/2024/12/01/1863157714193592320.png",
-        "version": "儿童学习"
+        "version": "儿童学习",
       },
 {
         "name": "听了么",
         "url": "https://m509.lanosso.com:446/05311400288599725bb/2026/05/31/f0e8b2111cfe49879d9027bb12891316.apk?st=D-LaBmXIzI7NBY_EDlTRRw&e=1780209289&b=U_bQMnASoAOEE61CAB7NQ7VGMCngDYwF3BDw_c&fi=288599725&pid=27-222-73-50&up=2&mp=0&co=0",
         "icon": "https://file.yecao.net/yc-84/3/icon/2026/01/20/2013477833590525952.png",
-        "version": "TV听歌"
+        "version": "TV听歌",
       },
 {
         "name": "小白浏览器",
         "url": "https://c1020.lanosso.com/7ca64fc2a7af76c03c01571b9b5b57ee/6a1bd585/2026/05/31/01f4dc7ca25f933ac8a8eb9597ff5299.apk?fn=%E5%B0%8F%E7%99%BD%E6%B5%8F%E8%A7%88%E5%99%A8.apk",
         "icon": "https://file.yecao.net/yc-84/3/icon/2025/01/15/1879549331154513920.png",
-        "version": "软件管家"
+        "version": "软件管家",
       },
 {
         "name": "小红帽管家",
         "url": "https://m509.lanosso.com:446/05311300288599705bb/2026/05/31/1eb5f92430c270b3aaadeb168fa306ab.apk?st=W6QEu_upTrUruQuvkdLNpA&e=1780209107&b=VeILu1PcU7FQv1SgBrMAvAHpAHIGZlEnVm4_c&fi=288599705&pid=27-222-73-50&up=2&mp=0&co=0",
         "icon": "https://pdf2.webgetstore.com/2026/05/31/0ae13771dbfab77b412868b001b95eac.jpg?sg=50bce55d7c2389be210cdae1cd0ce183&e=6a1bce54&fileName=2032055165548859392.jpg&fi=288600345",
-        "version": "软件管家"
+        "version": "软件管家",
       }
     ]
   }
