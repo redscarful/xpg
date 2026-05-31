@@ -213,18 +213,7 @@
             "jar": "./橘皮.jar",
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
-        {
-            "key": "茉莉",
-            "name": "茉莉┃App",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-                "dataKey": "88689667dce61725",
-                "dataIv": "88689667dce61725"
-            }
-        },
+    
         {
             "key": "驿站",
             "name": "驿站┃App",
@@ -689,6 +678,34 @@
                 "type": "rect",
                 "ratio": 1.597
             }
+    },
+        {
+      "key": "Jrsjs",
+      "name": "⚽Jrs┃球迷",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "ext": "./jrk球迷.js",
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+         {
+      "key": "Jrsjs",
+      "name": "⚽88┃看球",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "ext": "./88看球.js",
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
         {
             "key": "急救教学",
