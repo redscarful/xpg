@@ -574,36 +574,7 @@
                 "ratio": 1.597
             }
     },
-    {
-      "key": "小品哔哩",
-      "name": "🅱️相声┃小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar":"./bili.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.liucn.cc/box/libs/xiaopin.json",
-      "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-    },
-    {
-      "key": "小品哔哩",
-      "name": "🅱️歌曲┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar":"./bili.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.liucn.cc/box/libs/mtv.json",
-      "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-    },
+   
     {
       "key": "儿童哔哩",
       "name": "🅱️儿童┃哔哩",
