@@ -649,35 +649,18 @@
                 "type": "rect",
                 "ratio": 1.597
             }
-    },
-        {
-      "key": "Jrsjs",
-      "name": "⚽Jrs┃球迷",
-      "type": 3,
-      "api": "./drpy2.min.js",
-      "ext": "./jrk球迷.js",
-      "style": {
-        "type": "list"
-      },
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-         {
-      "key": "88",
-      "name": "⚽88┃看球",
-      "type": 3,
-      "api": "./drpy2.min.js",
-      "ext": "./88看球.js",
-      "style": {
-        "type": "list"
-      },
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+    },{
+            "key": "88看球",
+            "name": "🏀看球┃直播",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "jar":"./spider2.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0
+        },
         {
             "key": "急救教学",
             "name": "🚑急救｜教学",
