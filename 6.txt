@@ -30,6 +30,36 @@
         "url": "https://dl.yecao.net/yc-55/3/apk/2026/05/18/2056249267391164416.apk?timestamp=1780199069&md5hash=6493774eee3b8b81549ffcb9e566ed40",
         "icon": "https://file.yecao.net/yc-55/3/icon/2026/05/18/2056249290988797952.png",
         "version": "内置40条线路"
+      },
+{
+        "name": "千寻直播",
+        "url": "https://dl.yecao.net/yc-55/3/apk/2026/05/17/2055903985005088768.apk?timestamp=1780199068&md5hash=b49c64924fce928db530dd7c0464aada",
+        "icon": "https://file.yecao.net/yc-55/3/icon/2026/05/17/2055903997852241920.png",
+        "version": "支持语音换台"
+      },
+{
+        "name": "宝宝巴士儿歌",
+        "url": "https://dl.yecao.net/yc-84/3/apk/2024/12/08/1865742305299349504.apk?timestamp=1780199620&md5hash=c52a8d0e9399bbfcffdd98d06231112a",
+        "icon": "https://file.yecao.net/yc-84/3/icon/2024/12/08/1865742332872704000.png",
+        "version": "儿歌动画"
+      },
+{
+        "name": "淘知学堂",
+        "url": "https://dl.yecao.net/yc-84/3/apk/2024/12/01/1863157680806932480.apk?timestamp=1780199620&md5hash=6b85dd61862e62588e05250c2afeff5e",
+        "icon": "https://file.yecao.net/yc-84/3/icon/2024/12/01/1863157714193592320.png",
+        "version": "儿童学习"
+      },
+{
+        "name": "听了么",
+        "url": "https://dl.yecao.net/yc-84/3/apk/2026/01/20/2013477815106228224.apk?timestamp=1780199620&md5hash=57d66d9e3d1c98308f6975a39a18101b",
+        "icon": "https://file.yecao.net/yc-84/3/icon/2026/01/20/2013477833590525952.png",
+        "version": "TV听歌"
+      },
+{
+        "name": "小白管理器",
+        "url": "https://dl.yecao.net/yc-84/3/apk/2025/01/15/1879549271326961664.apk?timestamp=1780199620&md5hash=ed462d2390784e55d6cd01330477ce2f",
+        "icon": "https://file.yecao.net/yc-84/3/icon/2025/01/15/1879549331154513920.png",
+        "version": "软件管家"
       }
     ]
   }
