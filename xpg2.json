@@ -107,7 +107,7 @@
           "name":"豆瓣┃推荐",
           "type":3,
           "api":"csp_Douban",
-          "jar":"https://pdf2.webgetstore.com/2026/05/31/9e01319f4ff0545c8bda440c0ebe7d64.jar?sg=c5051684e27210f65e3f78d286393820&e=6a1bd54c&fileName=001.jar&fi=288604847",
+          "jar":"./001.jar",
           "searchable": 1,
           "quickSearch":0,
           "filterable": 1,
