@@ -65,6 +65,42 @@
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaohongmao.apk",
         "icon": "https://file.yecao.net/yc-28/3/icon/2026/03/12/2032055165548859392.png",
         "version": "软件管家"
+      },
+{
+        "name": "看客",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/kanke.apk",
+        "icon": "https://file.yecao.net/yc-47/3/icon/2026/05/30/2060665888508002304.png",
+        "version": "影视点播"
+      },
+{
+        "name": "星海体育",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xinghai.apk",
+        "icon": "https://file.yecao.net/yc-25/3/icon/2026/06/01/2061264286458056704.png",
+        "version": "足球篮球"
+      },
+{
+        "name": "大强影视",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/daqiang.apk",
+        "icon": "https://file.yecao.net/yc-77/3/icon/2026/06/01/2061308927965933568.png",
+        "version": "软件管家"
+      },
+{
+        "name": "艺华直播",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/yihua.apk",
+        "icon": "https://file.yecao.net/yc-30/3/icon/2026/04/23/2047121710360080384.png",
+        "version": "软件管家"
+      },
+{
+        "name": "TV音乐",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/yinyue.apk",
+        "icon": "https://file.yecao.net/yc-30/3/icon/2026/04/26/2048291126293049344.png",
+        "version": "软件管家"
+      },
+{
+        "name": "当贝市场",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/dangbei.apk",
+        "icon": "https://file.yecao.net/yc-30/3/icon/2025/06/12/1933053327264808960.png",
+        "version": "软件管家"
       }
     ]
   }
