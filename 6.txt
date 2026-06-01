@@ -20,49 +20,49 @@
       },
 {
         "name": "电视直播",
-        "url": "https://v4.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/dianshizhibo.apk",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/dianshizhibo.apk",
         "icon": "https://file.yecao.net/yc-84/3/icon/2026/05/16/2055482234538369024.png",
         "version": "支持语音"
       },
 {
         "name": "小苹果TV",
-        "url": "https://v4.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xpgtv.apk",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xpgtv.apk",
         "icon": "https://file.yecao.net/yc-55/3/icon/2026/05/18/2056249290988797952.png",
         "version": "内置40条线路"
       },
 {
         "name": "千寻直播",
-        "url": "https://v4.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/qianxun.apk",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/qianxun.apk",
         "icon": "https://file.yecao.net/yc-55/3/icon/2026/05/17/2055903997852241920.png",
         "version": "支持语音换台"
       },
 {
         "name": "宝宝巴士儿歌",
-        "url": "https://v4.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/baobaobashi.apk",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/baobaobashi.apk",
         "icon": "https://file.yecao.net/yc-84/3/icon/2024/12/08/1865742332872704000.png",
         "version": "儿歌动画"
       },
 {
         "name": "淘知学堂",
-        "url": "https://v4.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/taozhixuetang.apk",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/taozhixuetang.apk",
         "icon": "https://file.yecao.net/yc-84/3/icon/2024/12/01/1863157714193592320.png",
         "version": "儿童学习"
       },
 {
         "name": "听了么",
-        "url": "https://v4.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/tinglem.apk",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/tinglem.apk",
         "icon": "https://file.yecao.net/yc-84/3/icon/2026/01/20/2013477833590525952.png",
         "version": "TV听歌"
       },
 {
         "name": "小白浏览器",
-        "url": "https://v4.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaobai.apk",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaobai.apk",
         "icon": "https://file.yecao.net/yc-84/3/icon/2025/01/15/1879549331154513920.png",
         "version": "软件管家"
       },
 {
         "name": "小红帽管家",
-        "url": "https://v4.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaohongmao.apk",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaohongmao.apk",
         "icon": "https://file.yecao.net/yc-28/3/icon/2026/03/12/2032055165548859392.png",
         "version": "软件管家"
       }
