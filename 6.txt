@@ -20,49 +20,49 @@
       },
 {
         "name": "电视直播",
-        "url": "https://c1021.lanosso.com/cc938133c0f09d6001aa52eb3626da96/6a1be199/2026/05/31/145cb586204e3bb4a0b9370ef2df3080.apk?fn=%E7%94%B5%E8%A7%86%E7%9B%B4-.apk",
+        "url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/GPjvb0iNPoaypmxOZprcGvMznWd/?mount_point=explorer&version=7646215741791833291",
         "icon": "https://file.yecao.net/yc-84/3/icon/2026/05/16/2055482234538369024.png",
         "version": "支持语音"
       },
 {
         "name": "小苹果TV",
-        "url": "https://c1020.lanosso.com/f38eefe95bf0e05ff511c55884a7573b/6a1be201/2026/05/31/08ce5f7c213535d0c8a83626beb3ee8a.apk?fn=%E5%B0%8F%E8%8B%B9%E6%9E%9Ctv.apk",
+        "url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/VvzXbPWL2oJvVaxbX59cduKunwy/?mount_point=explorer&version=7646215705196498120",
         "icon": "https://file.yecao.net/yc-55/3/icon/2026/05/18/2056249290988797952.png",
         "version": "内置40条线路"
       },
 {
         "name": "千寻直播",
-        "url": "https://c1020.lanosso.com/13d466ca86715deee520bdea7d1fd927/6a1be22d/2026/05/31/2abf0369f71f8a7654c53b2d323c87ed.apk?fn=%E5%8D%83%E5%AF%BB%E7%9B%B4-.apk",
+        "url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/Cx5ibdrYGoywqlxVRZGcfv8RnDb/?mount_point=explorer&version=7646215688390003674",
         "icon": "https://file.yecao.net/yc-55/3/icon/2026/05/17/2055903997852241920.png",
         "version": "支持语音换台"
       },
 {
         "name": "宝宝巴士儿歌",
-        "url": "https://c1020.lanosso.com/45273e25131da51aeb74b6d72c2c131f/6a1be245/2026/05/31/3a8449d0c1164fa159531891d1224dab.apk?fn=%E5%AE%9D%E5%AE%9D%E5%B7%B4%E5%A3%AB.apk",
+        "url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/ESiobmMbToSGXoxaQwkcAsmcnXh/?mount_point=explorer&version=7646215680785763277",
         "icon": "https://file.yecao.net/yc-84/3/icon/2024/12/08/1865742332872704000.png",
         "version": "儿歌动画"
       },
 {
         "name": "淘知学堂",
-        "url": "https://c1021.lanosso.com/71221e616c6eed02e93c9b35c04b758d/6a1be256/2026/05/31/a9bf01124c1e9b596c0017466cdf44d5.apk?fn=%E6%B7%98%E7%9F%A5%E5%AD%A6%E5%A0%82.apk",
+        "url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/Sfohb9iwwoYoVUxX406c8mZsnwg/?mount_point=explorer&version=7646215659029810389",
         "icon": "https://file.yecao.net/yc-84/3/icon/2024/12/01/1863157714193592320.png",
         "version": "儿童学习"
       },
 {
         "name": "听了么",
-        "url": "https://c1021.lanosso.com/f9a64e81a042264d831b8397f03c126c/6a1be26d/2026/05/31/f0e8b2111cfe49879d9027bb12891316.apk?fn=%E5%90%AC%E4%BA%86%E4%B9%88.apk",
+        "url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/Gc2ubJimXot0pGxSJ6KcGzTFnzf/?mount_point=explorer&version=7646215638263811260",
         "icon": "https://file.yecao.net/yc-84/3/icon/2026/01/20/2013477833590525952.png",
         "version": "TV听歌"
       },
 {
         "name": "小白浏览器",
-        "url": "https://c1020.lanosso.com/6078ff5c7db6efa83797583cdb12440a/6a1be281/2026/05/31/01f4dc7ca25f933ac8a8eb9597ff5299.apk?fn=%E5%B0%8F%E7%99%BD%E6%B5%8F%E8%A7%88%E5%99%A8.apk",
+        "url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/DewTbx28foNfrnxHhN5cdxnJntb/?mount_point=explorer&version=7646215630164593880",
         "icon": "https://file.yecao.net/yc-84/3/icon/2025/01/15/1879549331154513920.png",
         "version": "软件管家"
       },
 {
         "name": "小红帽管家",
-        "url": "https://c1021.lanosso.com/c7833c83c5b3679aa40301417dd1f54d/6a1be293/2026/05/31/1eb5f92430c270b3aaadeb168fa306ab.apk?fn=%E5%B0%8F%E7%BA%A2%E5%B8%BD.apk",
+        "url": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/WLzRb6gOhoWqb3xHS1ScYrppnfc/?mount_point=explorer&version=7646215616310807738",
         "icon": "https://file.yecao.net/yc-28/3/icon/2026/03/12/2032055165548859392.png",
         "version": "软件管家"
       }
