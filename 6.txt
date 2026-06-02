@@ -92,8 +92,8 @@
       },
 {
         "name": "TV音乐",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/yinyue.apk",
-        "icon": "https://file.yecao.net/yc-30/3/icon/2026/04/26/2048291126293049344.png",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/music.apk",
+        "icon": "https://file.yecao.net/yc-77/3/icon/2026/06/02/2061648416357756928.png",
         "version": "软件管家"
       },
 {
