@@ -33,7 +33,7 @@
 {
         "name": "千寻直播",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/qianxun.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2055903997852241920",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2055903997852241920.jpg",
         "version": "支持语音换台"
       },
 {
