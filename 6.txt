@@ -51,7 +51,7 @@
 {
         "name": "小苹果音乐TV版",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/music.apk",
-        "icon": "hhttps://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061648416357756928.jpg",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061648416357756928.jpg",
         "version": "TV听歌"
       },
 {
