@@ -25,6 +25,12 @@
         "version": "应用大全"
       },
 {
+        "name": "欢视助手",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/huanshi.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/vw.jpg",
+        "version": "应用投送"
+      },
+{
         "name": "电视直播",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/dianshizhibo.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2055482234538369024.jpg",
