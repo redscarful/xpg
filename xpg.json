@@ -115,7 +115,7 @@
       },
         {
             "key": "应用商店",
-            "name": "港澳最稳NewTV下载",
+            "name": "应用大全",
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
