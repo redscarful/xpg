@@ -19,6 +19,12 @@
         "version": "复制网址浏览器打开"
       },
 {
+        "name": "二狗助手",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/ergou.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/ig.jpg",
+        "version": "应用大全"
+      },
+{
         "name": "电视直播",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/dianshizhibo.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2055482234538369024.jpg",
