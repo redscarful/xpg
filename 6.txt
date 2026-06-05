@@ -21,7 +21,7 @@
 {
         "name": "二狗助手",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/ergou.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/ig.jpg",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/ig.png",
         "version": "应用大全"
       },
 {
