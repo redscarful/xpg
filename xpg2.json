@@ -213,18 +213,6 @@
             "jar": "./橘皮.jar",
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
-        {
-            "key": "驿站",
-            "name": "驿站┃App",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-                "dataKey": "dyyztvapiappyyds",
-                "dataIv": "dyyztvapiappyyds"
-            }
-        },
 
         {
             "key": "气球",
@@ -264,19 +252,6 @@
             }
         },
 
-        {
-            "key": "小白",
-            "name": "小白┃App",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://uutu.efjhl.cn",
-                "dataKey": "uXVVRRuaPnjEfsX5",
-                "dataIv": "uXVVRRuaPnjEfsX5"
-            }
-        },
         {
             "key": "气球",
             "name": "气球┃App",
