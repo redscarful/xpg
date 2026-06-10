@@ -21,6 +21,15 @@
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
     "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
         },
+    {
+            "type": 0,
+            "name": "猫影视",
+            "playerType":2,
+            "ua": "okhttp/3.15",
+            "url": "http://rihou.cc:567/gggg.nzk",
+            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
          {
       "name":"LiveTV",
       "type":0,
@@ -30,15 +39,7 @@
       "playerType":2,
       "timeout":10
       },
-     {
-            "type": 0,
-            "name": "猫影视",
-            "playerType":2,
-            "ua": "okhttp/3.15",
-            "url": "http://rihou.cc:567/gggg.nzk",
-            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
-        },
+     
       {
       "name":"机缘宝盒",
       "type":0,
