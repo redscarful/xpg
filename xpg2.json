@@ -185,12 +185,6 @@
             "filterable": 1
         },
         {
-            "key": "奇优App",
-            "name": "奇优┃App",
-            "type": 3,
-            "api": "csp_Qiyou"
-        },
-        {
             "key": "骚火App",
             "name": "骚火┃App",
             "type": 3,
