@@ -13,6 +13,12 @@
         "version": "福利密码6个8"
       },
 {
+        "name": "小草助手",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/yecao.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/yecao.png",
+        "version": "应用下载"
+      },
+{
         "name": "二狗助手",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/ergou.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/ig.png",
