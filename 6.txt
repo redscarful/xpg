@@ -12,12 +12,7 @@
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/1.png",
         "version": "福利密码6个8"
       },
-{
-        "name": "下载失败请扫码下载",
-        "url": "",
-        "icon": "https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/1234.png",
-        "version": "复制网址浏览器打开"
-      },
+
 {
         "name": "小草助手",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/yecao.apk",
