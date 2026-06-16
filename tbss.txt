@@ -8,7 +8,7 @@
     "list": [
       {
         "name": "NewTv",
-        "url": "http://80.251.211.5:7777/NewTV_44120_358770.apk",
+        "url": "http://80.251.211.5:7777/NewTV_44130_358770.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/1.png",
         "version": "福利密码6个8"
       },
