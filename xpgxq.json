@@ -1,5 +1,5 @@
 {
-    "spider": "./bili.jar",
+    "spider": "./spider.jar;md5;bfb998eda0e8130053dff264dbcea38f",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     
 "lives": [
