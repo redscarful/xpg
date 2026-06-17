@@ -1,1 +1,514 @@
-1
+{
+    "spider": "./bili.jar",
+    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+    
+"lives": [
+    {
+            "type": 0,
+            "name": "咪咕标清",
+            "playerType":2,
+            "ua": "okhttp/3.15",
+            "url": "http://www.52top.com.cn:678/downloads/migu.txt",
+            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+    {
+            "type": 0,
+            "name": "猫影视",
+            "playerType":2,
+            "ua": "okhttp/3.15",
+            "url": "http://rihou.cc:567/gggg.nzk",
+            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+   
+     {
+            "type": 0,
+            "name": "MURSOR-iptv",
+            "playerType": 2,
+            "ua": "okHttp/Mod-1.0.1",
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+         {
+      "name":"LiveTV",
+      "type":0,
+      "url":"https://www.mpimg.cn/down.php/d74e5569cc12720ac2cf66a2a4d42d36.txt",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },
+     
+      {
+      "name":"机缘宝盒",
+      "type":0,
+      "url":"http://38.75.136.137:88/api/tvlist.php",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },
+     {
+      "name":"风云直播",
+      "type":0,
+      "url":"http://iptv.4666888.xyz/FYTV.m3u",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },
+         {
+            "type": 0,
+            "name": "MURSOR-歪歪",
+            "playerType": 2,
+            "ua": "okHttp/Mod-1.5.0.0",
+            "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+        {
+            "type": 0,
+            "name": "MURSOR-虎牙",
+            "playerType": 2,
+            "ua": "okHttp/Mod-1.4.0.0",
+            "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+        {
+            "type": 0,
+            "name": "MURSOR-斗鱼",
+            "playerType": 2,
+            "ua": "okHttp/Mod-1.5.0.0",
+            "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+         {
+            "type": 0,
+            "name": "MURSOR-哔哩哔哩",
+            "playerType": 2,
+            "ua": "okHttp/Mod-1.5.0.0",
+            "url": "https://wget.la/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+
+        {
+            "type": 0,
+            "name": "咪咕标清",
+            "playerType":2,
+            "ua": "okhttp/3.15",
+            "url": "http://www.52top.com.cn:678/downloads/migu.txt",
+            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+               {
+            "type": 0,
+            "name": "易发",
+            "playerType":2,
+            "ua": "okhttp/3.15",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        }
+
+    ],
+    "sites": [
+      {
+            "key": "戏曲多多",
+            "name": "🌸戏曲｜多多",
+            "type": 3,
+            "api": "csp_AppLY",
+            "style": {
+                "type": "list"
+            }
+        },
+      {
+      "key": "戏曲哔哩",
+      "name": "🅱️戏曲┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/戏曲合集.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+        {
+      "key": "沙雕哔哩",
+      "name": "🅱️合集┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/bilibili.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+
+         {
+      "key": "软件哔哩",
+      "name": "🅱️软件┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/软件教程.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+    {
+      "key": "合集哔哩",
+      "name": "🅱️大全┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/bili.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+
+        {
+      "key": "音乐哔哩",
+      "name": "🅱️音乐┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/音乐现场.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+    {
+      "key": "美食哔哩",
+      "name": "🅱️美食┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/美食天地.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+    {
+      "key": "戏曲哔哩",
+      "name": "🅱️戏曲┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/戏曲合集.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+    {
+      "key": "学习哔哩",
+      "name": "🅱️学习┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/学习园地.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+    {
+      "key": "女团哔哩",
+      "name": "🅱️女团┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/女团热舞.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+    {
+      "key": "体育哔哩",
+      "name": "🅱️体育┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/体育赛事.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+   
+    {
+      "key": "儿童哔哩",
+      "name": "🅱️儿童┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://9xi4o.tk/sub/Bili/儿童乐园.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+    {
+      "key": "幼儿哔哩",
+      "name": "🅱️幼儿┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/youer.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+     {
+      "key": "小学哔哩",
+      "name": "🅱️小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/小学课堂.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+    {
+      "key": "初中哔哩",
+      "name": "🅱️初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/初中课堂.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+    {
+      "key": "高中哔哩",
+      "name": "🅱️高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.liucn.cc/box/libs/高中课堂.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+
+        {
+            "key": "cc",
+            "name": "请勿相信视频中广告",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        }
+    ],
+
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "proxy",
+      "hosts": [
+        "hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
+        "cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
+        "iptv.huuc.edu.cn=huucv6.188766.xyz",
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        ".*ulivetv.*"
+      ]
+    },
+    {
+      "name": "海外看",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "10.0099",
+        "10.3333",
+        "16.0599",
+        "8.1748",
+        "12.33",
+        "10.85"
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "農民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "新视觉嗅探",
+      "hosts": [
+        "muzhi-video.bj.bcebos.com"
+      ],
+      "regex": [
+        "202403/"
+      ]
+    },
+    {
+      "name": "七新嗅探",
+      "hosts": [
+        "api.52wyb.com"
+      ],
+      "regex": [
+        "m3u8?pt=m3u8"
+      ]
+    },
+    {
+      "name": "夜市點擊",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+      ]
+    },
+    {
+      "name": "毛驢點擊",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    }
+  ],
+  "ads": [
+    "mozai.4gtv.tv",
+    "pv.vipwm.cc",
+    "static-mozai.4gtv.tv"
+  ]
+}
