@@ -616,7 +616,7 @@
       "name": "🎬喵喵|短剧",
       "key": "Qmdj",
       "type": 3,
-      "api": "csp_QmdjAmns"
+      "api": "csp_QmdjAmns",
       "jar":"./aowu.jar;md5;6d682c936700dce9d70d5aba69b7b95b",
       "searchable": 1,
       "quickSearch": 1,
@@ -1073,3 +1073,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
