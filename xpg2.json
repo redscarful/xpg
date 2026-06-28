@@ -133,18 +133,17 @@
             "ext": "./6.txt"
         },
 
-    {
-            "key": "配置中心",
-            "name": "配置┃中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
+{
+      "name": "配置|中心",
+      "key": "MyConfig",
+      "type": 3,
+      "api": "csp_AAConfigAmns",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar":"./aowu.jar;md5;3dcc75a008d79239d54f662a559335d5"
+    },
 
     {
             "key": "热播App",
