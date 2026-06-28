@@ -557,17 +557,7 @@
                 "dataIv": "e72cdfd629e8895d"
             }
         },
-        {
-      "name": "🎬嗷嗚|短剧",
-      "key": "DjHggg",
-      "type": 3,
-      "api": "csp_HgggAmns",
-      "jar":"./aowu.jar;md5;6d682c936700dce9d70d5aba69b7b95b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "short_play"
-    },
+
     {
       "name": "🎬豪堪|短剧",
       "key": "HHkk",
