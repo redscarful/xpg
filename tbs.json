@@ -121,7 +121,7 @@
           "searchable": 1,
           "quickSearch":0,
           "filterable": 1,
-          "ext":"./tbss.txt"
+          "ext":"./tbs.txt"
       },
         {
             "key": "应用商店",
@@ -130,7 +130,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "./6.txt"
+            "ext": "./tbss.txt"
         },
 
     {
