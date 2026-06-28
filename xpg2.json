@@ -559,39 +559,6 @@
         },
 
     {
-      "name": "🎬豪堪|短剧",
-      "key": "HHkk",
-      "type": 3,
-      "api": "csp_HHkkAmns",
-      "jar":"./aowu.jar;md5;6d682c936700dce9d70d5aba69b7b95b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama"
-    },
-    {
-      "name": "🎬盒马|短剧",
-      "key": "Hema",
-      "type": 3,
-      "api": "csp_HemaAmns",
-      "jar":"./aowu.jar;md5;6d682c936700dce9d70d5aba69b7b95b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama"
-    },
-    {
-      "name": "🎬拜拜|短剧",
-      "key": "Bddj",
-      "type": 3,
-      "api": "csp_BddjAmns",
-      "jar":"./aowu.jar;md5;6d682c936700dce9d70d5aba69b7b95b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama"
-    },
-    {
       "name": "🎬围观|短剧",
       "key": "Wgdj",
       "type": 3,
@@ -602,17 +569,7 @@
       "changeable": 0,
       "genre": "shortdrama"
     },
-    {
-      "name": "🎬喵喵|短剧",
-      "key": "Qmdj",
-      "type": 3,
-      "api": "csp_QmdjAmns",
-      "jar":"./aowu.jar;md5;6d682c936700dce9d70d5aba69b7b95b",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama"
-    },
+
     {
       "name": "🎬星星|短剧",
       "key": "Xydj",
