@@ -16,7 +16,7 @@
         "name": "小草助手",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/yecao.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/yecao.png",
-        "version": "6.20"
+        "version": "6.23"
       },
 {
         "name": "二狗助手",
