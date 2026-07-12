@@ -130,21 +130,75 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "./tbss.txt"
+            "ext": "./tbs.txt"
         },
-
+{
+      "key": "FishConfig",
+      "name": "设置┃中心",
+      "type": 3,
+      "api": "csp_FishConfig",
+      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21"
+    },
+          {
+      "key": "ALLLive",
+      "name": "短视频┃App",
+      "type": 3,
+      "api": "csp_ALLLive",
+      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "searchable": 1
+    },
     {
-            "key": "配置中心",
-            "name": "配置┃中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
+      "key": "bili",
+      "name": "哔哩┃App",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "cookie": ""
+      }
+    },
+     {
+      "key": "YunDuo",
+      "name": "云朵┃App",
+      "type": 3,
+      "api": "csp_YunDuo",
+      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "BuBu",
+      "name": "布布┃App",
+      "type": 3,
+      "api": "csp_BuBu",
+      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "huaisang",
+      "name": "怀桑┃App",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
+    },
+    {
+      "key": "景仪",
+      "name": "景仪┃App",
+      "type": 3,
+      "api": "csp_App88",
+      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "AScEBDU8ZGTviWgGR4VE0GGkVwxm9FRojDfGdLd7Uq6yQW7ma68i5+t2StAnXVayevGqI3Kb0rJi2eqa1R3PW9cxHiFDbXAhtGajyY69GUpDZQ615h6l9jBlh/RMkOo3RfAvtXJdZasUTDhxflfJPCn0T5P68L/XHUV9ylgYmABoOSghqLVoMUNWDS5E2PAMVkm39vpIJOyKNEIhVd3EQmPxDSjSoDE56akhNdBPWsT+tZVbLO8rEccdRYGvxYsXmVjhxaXhmzQEoEme5LF/0+x+M2A880NZ5akhrKIl5ZjfREZCgQ6FClx7+L8f8fb2VNiLtFu5538MrSRozjub6WRKe1m5OOdgdOTsAXJXw5QG5IQ/Y/i9VBZTZUjqP+0TpP4h92QjLynjJAFzwSr3bAOOIvEJW2LsK+hocK72wpyVG93vl42XQpU5s95dAVJOOOnbawZUsOq8a0ctuSsSdWQ="
+    },
 
     {
             "key": "热播App",
@@ -306,90 +360,39 @@
                 "version": ""
             }
         },
+       {
+      "key": "双星",
+      "name": "双星┃动漫",
+      "type": 3,
+      "api": "csp_App88",
+      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "ext": "AcT3r+Yx4xV/LlB7Os5BUaHRLhSxKWwSAgpq3V+7Eo/lCbgRu4w9WaFSZNmvzIyEv57jMmi3y9UyfY2V3hG6r2ZXOYxjb2VtNGcc31qnT/0V8c5RhLl5yhVOC1di9IjfQ/w+842AXS7IaMxh6737IMQrO04oidEfNkqKs39imu3vmC7Qu0fR1zcCk4JWmurxw4V7qab1Sc/gkANOoml0aHP4VRJJ+vIuIb9yQZNRyOjKUjC0XQmPKJbcexNyZqnRghr5ADZOAN3NMjlQzd914ixCDj5ME+wlkvmbTjL+ECb0EG5LfX/ATTYr8e0EWLfOBzVon/BrbJdZU5m3k4jVSQwEjREWtS1z9bbii6G9ts77nx3P3smsdE9Mu4dEYZaSkekI62B98hP4gLCvw7qw8wZlymehntj/MTc7KupQ9sCKzPMiu8yz4eed4PGdfc6HMg=="
+    },
+     {
+      "key": "XiFan",
+      "name": "稀饭┃动漫",
+      "type": 3,
+      "api": "csp_XiFan",
+      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "SiteUrl": "https://next.xifanacg.com"
+      }
+    },
         {
-            "key": "魔都资源",
-            "name": "魔都┃动漫",
-            "type": 1,
-            "api": "https://caiji.moduapi.cc/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "咕咕动漫",
-            "name": "咕咕┃动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.gugu3.com",
-                "dataKey": "nKfZ8KX6JTNWRzTD",
-                "dataIv": "nKfZ8KX6JTNWRzTD",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        {
-            "key": "漫国动漫",
-            "name": "漫国┃动漫",
-            "type": 3,
-            "api": "csp_AppSy",
-            "ext": {
-                "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
-                "siteKey": "rectangleadsadxa",
-                "listKey": "aassddwwxxllsx1x",
-                "parsesKey": "aassddwwxxllsx1x"
-            }
-        },
-        {
-            "key": "元咲动漫",
-            "name": "元咲┃动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://cic.aicg.fun",
-                "dataKey": "2c4h36abd96se10u",
-                "dataIv": "2c4h36abd96se10u"
-            }
-        },
-        {
-            "key": "番薯动漫",
-            "name": "番薯┃动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://new.app.bytegooty.com",
-                "dataKey": "N4yj7l7xKxHF4*gz",
-                "dataIv": "N4yj7l7xKxHF4*gz"
-            }
-        },
-        {
-            "key": "米饭",
-            "name": "米饭┃动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://get.mymifun.com",
-                "dataKey": "GETMIFUNGEIMIFUN",
-                "dataIv": "GETMIFUNGEIMIFUN"
-            }
-        },
-        {
-            "key": "方舟动漫",
-            "name": "方舟┃动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.cyfz.vip",
-                "dataKey": "e72cdfd629e8895d",
-                "dataIv": "e72cdfd629e8895d"
-            }
-        },
-  
+      "key": "Sir88",
+      "name": "球赛┃App",
+      "type": 3,
+      "api": "csp_Sir88",
+      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "searchable": 0,
+      "filterable": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
    
     {
       "name": "🎬围观|短剧",
