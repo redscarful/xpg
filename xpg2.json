@@ -3,6 +3,15 @@
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     
 "lives": [
+      {
+      "name":"机缘宝盒",
+      "type":0,
+      "url":"http://38.75.136.137:88/api/tvlist.php",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },
     {
             "type": 0,
             "name": "咪咕标清",
@@ -40,15 +49,7 @@
       "timeout":10
       },
      
-      {
-      "name":"机缘宝盒",
-      "type":0,
-      "url":"http://38.75.136.137:88/api/tvlist.php",
-      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
-      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
-      "playerType":2,
-      "timeout":10
-      },
+    
      {
       "name":"风云直播",
       "type":0,
