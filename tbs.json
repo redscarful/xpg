@@ -225,11 +225,6 @@
       "changeable": 1,
       "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
     },
-        {"key":"dr_搜狗","name":"搜狗┃App","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/caigou.js"},
-{"key":"dr_360影视","name":"360┃App ","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/360.js"},
-{"key":"dr_奇珍异兽","name":"爱奇艺┃App","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/奇珍异兽.js"},
-{"key":"dr_百忙无果","name":"芒果┃App","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/百忙无果.js"},
-
     {
             "key": "热播App",
             "name": "热播┃App",
@@ -713,23 +708,6 @@
             "changeable": 0
         }
     ],
-  "parses" : [
-      {
-      "name" : "📦聚合┃Json解析",
-      "type" : 3,
-      "url" : "Demo"
-    },
-    {
-      "name" : "虾米",
-      "type" : 0,
-      "url" : "https://jx.xmflv.com/?url=",
-      "ext" : {
-        "header" : {
-          "user-agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    }
-  ],
   "doh": [
     {
       "name": "Google",
