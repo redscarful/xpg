@@ -225,10 +225,10 @@
       "changeable": 1,
       "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
     },
-        {"key":"dr_搜狗","name":"🚛┃搜狗(官)","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/caigou.js"},
-{"key":"dr_360影视","name":"📺┃360(官) ","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/360.js"},
-{"key":"dr_奇珍异兽","name":"🦍┃奇珍┃异兽","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/奇珍异兽.js"},
-{"key":"dr_百忙无果","name":"🍋┃百忙┃无果","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/百忙无果.js"},
+        {"key":"dr_搜狗","name":"搜狗┃App","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/caigou.js"},
+{"key":"dr_360影视","name":"360┃App ","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/360.js"},
+{"key":"dr_奇珍异兽","name":"爱奇艺┃App","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/奇珍异兽.js"},
+{"key":"dr_百忙无果","name":"芒果┃App","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/百忙无果.js"},
 
     {
             "key": "热播App",
@@ -331,7 +331,7 @@
     
         {
             "key": "80S",
-            "name": "🎃80S┃磁力",
+            "name": "80S┃磁力",
             "type": 3,
             "api": "csp_BLSGod",
             "playerType": 1,
@@ -341,14 +341,14 @@
         },
         {
             "key": "修罗",
-            "name": "🎃修罗┃磁力",
+            "name": "修罗┃磁力",
             "api": "csp_Xlys",
             "type": 3,
             "ext": "https://xl01.com.de"
         },
         {
             "key": "七味",
-            "name": "🎃七味┃磁力",
+            "name": "七味┃磁力",
             "type": 3,
             "api": "csp_QnMp4",
             "searchable": 1,
@@ -360,7 +360,7 @@
         },
         {
             "key": "电影港",
-            "name": "🎃电影┃磁力",
+            "name": "电影┃磁力",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -370,7 +370,7 @@
         },
         {
             "key": "电影天堂",
-            "name": "🎃天堂┃磁力",
+            "name": "天堂┃磁力",
             "type": 3,
             "api": "csp_DyGod",
             "searchable": 1,
