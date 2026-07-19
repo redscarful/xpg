@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar;md5;bfb998eda0e8130053dff264dbcea38f",
+    "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     
 "lives": [
@@ -117,7 +117,7 @@
           "name":"豆瓣┃推荐",
           "type":3,
           "api":"csp_Douban",
-          "jar":"./001.jar",
+          "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/001.jar",
           "searchable": 1,
           "quickSearch":0,
           "filterable": 1,
@@ -130,21 +130,21 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "./tbs.txt"
+            "ext": "./tbss.txt"
         },
 {
       "key": "FishConfig",
       "name": "设置┃中心",
       "type": 3,
       "api": "csp_FishConfig",
-      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21"
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab"
     },
           {
       "key": "ALLLive",
       "name": "短视频┃App",
       "type": 3,
       "api": "csp_ALLLive",
-      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
       "searchable": 1
     },
     {
@@ -152,7 +152,7 @@
       "name": "哔哩┃App",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
       "searchable": 1,
       "quickSearch": 1,
       "ext": {
@@ -164,7 +164,7 @@
       "name": "云朵┃App",
       "type": 3,
       "api": "csp_YunDuo",
-      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1
@@ -174,7 +174,7 @@
       "name": "布布┃App",
       "type": 3,
       "api": "csp_BuBu",
-      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1
@@ -184,7 +184,7 @@
       "name": "怀桑┃App",
       "type": 3,
       "api": "csp_AppQi",
-      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
       "searchable": 1,
       "changeable": 1,
       "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
@@ -210,15 +210,7 @@
             "api": "csp_Wwys",
             "ext": "https://vip.wwgz.cn:5200"
         },
-        {
-            "key": "瓜子App",
-            "name": "瓜子┃App",
-            "type": 3,
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
         {
             "key": "爱看机器人",
             "name": "爱看┃App",
@@ -355,7 +347,7 @@
       "name": "双星┃动漫",
       "type": 3,
       "api": "csp_App88",
-      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
       "ext": "AcT3r+Yx4xV/LlB7Os5BUaHRLhSxKWwSAgpq3V+7Eo/lCbgRu4w9WaFSZNmvzIyEv57jMmi3y9UyfY2V3hG6r2ZXOYxjb2VtNGcc31qnT/0V8c5RhLl5yhVOC1di9IjfQ/w+842AXS7IaMxh6737IMQrO04oidEfNkqKs39imu3vmC7Qu0fR1zcCk4JWmurxw4V7qab1Sc/gkANOoml0aHP4VRJJ+vIuIb9yQZNRyOjKUjC0XQmPKJbcexNyZqnRghr5ADZOAN3NMjlQzd914ixCDj5ME+wlkvmbTjL+ECb0EG5LfX/ATTYr8e0EWLfOBzVon/BrbJdZU5m3k4jVSQwEjREWtS1z9bbii6G9ts77nx3P3smsdE9Mu4dEYZaSkekI62B98hP4gLCvw7qw8wZlymehntj/MTc7KupQ9sCKzPMiu8yz4eed4PGdfc6HMg=="
     },
      {
@@ -363,7 +355,7 @@
       "name": "稀饭┃动漫",
       "type": 3,
       "api": "csp_XiFan",
-      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
       "searchable": 1,
       "quickSearch": 1,
       "ext": {
@@ -375,7 +367,7 @@
       "name": "球赛┃App",
       "type": 3,
       "api": "csp_Sir88",
-      "jar":"https://qiniu.gongxueyun.com/upload/2173741/2026-07-11/visa_free/819538892_4_1783761776470.jar;md5;ec2cf8ed7cec0efe03a2bda99a5c9e21",
+      "jar":"https://qiniu.gongxueyun.com/upload/7668719/2026-07-19/visa_free/385563469_4_1784424278924.jar;md5;7ffb19ed6a753eb94e4c8466880a8aab",
       "searchable": 0,
       "filterable": 1,
       "indexs": 0,
