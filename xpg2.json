@@ -30,6 +30,41 @@
             "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
     "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
         },
+    {
+      "name" : "体育直播",
+      "type" : 0,
+      "url" : "http://82.156.243.185:33389/fwc.m3u"
+    },
+    {
+      "name" : "咪咕直播",
+      "type" : 0,
+      "url" : "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua" : "okHttp/Mod-1.1.0"
+    },
+    {
+      "name" : "虎牙",
+      "type" : 0,
+      "url" : "https://sub.ottiptv.cc/huyayqk.m3u",
+      "ua" : ""
+    },
+    {
+      "name" : "斗鱼",
+      "type" : 0,
+      "url" : "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "ua" : ""
+    },
+    {
+      "name" : "YY",
+      "type" : 0,
+      "url" : "https://sub.ottiptv.cc/yylunbo.m3u",
+      "ua" : ""
+    },
+    {
+      "name" : "BL",
+      "type" : 0,
+      "url" : "https://sub.ottiptv.cc/bililive.m3u",
+      "ua" : ""
+    },
    
      {
             "type": 0,
