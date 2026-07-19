@@ -246,6 +246,15 @@
             "api": "csp_Wwys",
             "ext": "https://vip.wwgz.cn:5200"
         },
+        {
+      "key" : "csp_Guazi",
+      "name" : "瓜子┃App",
+      "type" : 3,
+      "api" : "csp_Guazi",
+      "jar":"http://rihou.cc:88/jar/vox.jar;md5;5cc8172c9b08185314358c20025291a8",
+      "searchable" : 1,
+      "changeable" : 1
+    },
 
         {
             "key": "爱看机器人",
@@ -409,6 +418,20 @@
       "indexs": 0,
       "style": {
         "type": "list"
+      }
+    },
+        {
+      "key" : "csp_DuanJuCen",
+      "name" : "红果┃短剧",
+      "type" : 3,
+      "api" : "csp_DuanJuCen",
+      "jar":"http://rihou.cc:88/jar/vox.jar;md5;5cc8172c9b08185314358c20025291a8",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "api" : "https://mov.cenguigui.cn/duanju/api.php",
+        "classes" : "http://rihou.cc:88/json/duanjucen.json"
       }
     },
    
