@@ -117,7 +117,7 @@
           "name":"豆瓣┃推荐",
           "type":3,
           "api":"csp_Douban",
-          "jar":"./001.jar",
+          "jar":".https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/001.jar?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiIwMDEuamFyIiwidWlkIjoxMDg0Mjg0MiwicGlkIjo0Nzk3MzM3Niwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDA4IiwicnAiOiJyZXBvcy80NS9lNS80NWU1MWJjM2VhZTIyMmI1N2ZmYzE4MjAwZGQzZDE5NGMxNjA3MmY1MjQ1M2Q5YTczNzAwYjg3NTU2OGJiZTlkLmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzg0NDczMjAwfQ&signature=34a9GpeQ2Aedsn34-wQjNV6mIw8IkBayW3UPTFbDa4s",
           "searchable": 1,
           "quickSearch":0,
           "filterable": 1,
