@@ -420,27 +420,14 @@
         "type": "list"
       }
     },
-        {
-      "key" : "csp_DuanJuCen",
-      "name" : "红果┃短剧",
-      "type" : 3,
-      "api" : "csp_DuanJuCen",
-      "jar":"http://rihou.cc:88/jar/vox.jar;md5;5cc8172c9b08185314358c20025291a8",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "changeable" : 0,
-      "ext" : {
-        "api" : "https://mov.cenguigui.cn/duanju/api.php",
-        "classes" : "http://rihou.cc:88/json/duanjucen.json"
-      }
-    },
+      
    
     {
       "name": "🎬围观|短剧",
       "key": "Wgdj",
       "type": 3,
       "api": "csp_WgdjAmns",
-      "jar":"./aowu.jar;md5;3dcc75a008d79239d54f662a559335d5",  
+      "jar":"https://nos.netease.com/ysf/bb8475cf497085d16969b265a1e8e3f9.png;md5;438effad8463a53ab6fb2cf446885b54",  
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -452,7 +439,7 @@
       "key": "Xydj",
       "type": 3,
       "api": "csp_XydjAmns",
-      "jar":"./aowu.jar;md5;3dcc75a008d79239d54f662a559335d5",
+      "jar":"https://nos.netease.com/ysf/bb8475cf497085d16969b265a1e8e3f9.png;md5;438effad8463a53ab6fb2cf446885b54",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
