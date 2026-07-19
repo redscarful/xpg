@@ -225,6 +225,11 @@
       "changeable": 1,
       "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
     },
+        {"key":"dr_搜狗","name":"🚛┃搜狗(官)","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/caigou.js"},
+{"key":"dr_360影视","name":"📺┃360(官) ","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/360.js"},
+{"key":"dr_奇珍异兽","name":"🦍┃奇珍┃异兽","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/奇珍异兽.js"},
+{"key":"dr_腾云驾雾","name":"☁️┃腾云┃驾雾","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/腾云驾雾.js"},
+{"key":"dr_百忙无果","name":"🍋┃百忙┃无果","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://raw.liucn.cc/box/libs/js/百忙无果.js"},
 
     {
             "key": "热播App",
@@ -709,7 +714,98 @@
             "changeable": 0
         }
     ],
-
+  "parses" : [
+    {
+      "name" : "爱心",
+      "type" : 4,
+      "url" : "http://119.91.123.253:2345/Api/yun.php?url=",
+      "ext" : {
+        "header" : {
+          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name" : "淘片",
+      "type" : 0,
+      "url" : "https://jx.yparse.com/index.php?url=",
+      "ext" : {
+        "header" : {
+          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name" : "虾米",
+      "type" : 0,
+      "url" : "https://jx.xmflv.com/?url=",
+      "ext" : {
+        "header" : {
+          "user-agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name" : "1号接口",
+      "type" : 0,
+      "url" : "https://jx.xmflv.com/?url=",
+      "ext" : {
+        "header" : {
+          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name" : "2号接口",
+      "type" : 0,
+      "url" : "https://www.ckplayer.vip/jiexi/?url=",
+      "ext" : {
+        "header" : {
+          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name" : "3号接口",
+      "type" : 0,
+      "url" : "https://jx.789jiexi.net:4433/?url=",
+      "ext" : {
+        "header" : {
+          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name" : "4号接口",
+      "type" : 0,
+      "url" : "https://www.playm3u8.cn/jiexi.php?url=",
+      "ext" : {
+        "header" : {
+          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name" : "5号接口",
+      "type" : 0,
+      "url" : "https://www.8090g.cn/?url=",
+      "ext" : {
+        "header" : {
+          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name" : "6号接口",
+      "type" : 0,
+      "url" : "https://z1.m1907.top/?jx=",
+      "ext" : {
+        "header" : {
+          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
+        }
+      }
+    }
+  ],
   "doh": [
     {
       "name": "Google",
