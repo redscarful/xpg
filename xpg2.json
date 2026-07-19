@@ -210,15 +210,7 @@
             "api": "csp_Wwys",
             "ext": "https://vip.wwgz.cn:5200"
         },
-        {
-            "key": "瓜子App",
-            "name": "瓜子┃App",
-            "type": 3,
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
         {
             "key": "爱看机器人",
             "name": "爱看┃App",
