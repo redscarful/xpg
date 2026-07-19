@@ -715,25 +715,10 @@
         }
     ],
   "parses" : [
-    {
-      "name" : "爱心",
-      "type" : 4,
-      "url" : "http://119.91.123.253:2345/Api/yun.php?url=",
-      "ext" : {
-        "header" : {
-          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name" : "淘片",
-      "type" : 0,
-      "url" : "https://jx.yparse.com/index.php?url=",
-      "ext" : {
-        "header" : {
-          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
-        }
-      }
+      {
+      "name" : "📦聚合┃Json解析",
+      "type" : 3,
+      "url" : "Demo"
     },
     {
       "name" : "虾米",
@@ -742,66 +727,6 @@
       "ext" : {
         "header" : {
           "user-agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name" : "1号接口",
-      "type" : 0,
-      "url" : "https://jx.xmflv.com/?url=",
-      "ext" : {
-        "header" : {
-          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name" : "2号接口",
-      "type" : 0,
-      "url" : "https://www.ckplayer.vip/jiexi/?url=",
-      "ext" : {
-        "header" : {
-          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name" : "3号接口",
-      "type" : 0,
-      "url" : "https://jx.789jiexi.net:4433/?url=",
-      "ext" : {
-        "header" : {
-          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name" : "4号接口",
-      "type" : 0,
-      "url" : "https://www.playm3u8.cn/jiexi.php?url=",
-      "ext" : {
-        "header" : {
-          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name" : "5号接口",
-      "type" : 0,
-      "url" : "https://www.8090g.cn/?url=",
-      "ext" : {
-        "header" : {
-          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name" : "6号接口",
-      "type" : 0,
-      "url" : "https://z1.m1907.top/?jx=",
-      "ext" : {
-        "header" : {
-          "user-agent" : "Mozilla/5.0 (Linux; Android 9; DUK-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36"
         }
       }
     }
