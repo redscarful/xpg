@@ -130,7 +130,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://9xi4o.tk/sub/Bili/戏曲合集.json",
+      "ext": "./戏曲.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -161,7 +161,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://9xi4o.tk/sub/Bili/软件教程.json",
+      "ext": "./软件教程.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -192,7 +192,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://9xi4o.tk/sub/Bili/音乐现场.json",
+      "ext": "./歌曲MV.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -207,27 +207,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://9xi4o.tk/sub/Bili/美食天地.json",
+      "ext": "./美食合集.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
     },
-    {
-      "key": "戏曲哔哩",
-      "name": "🅱️戏曲┃哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar":"./bili.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://9xi4o.tk/sub/Bili/戏曲合集.json",
-      "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-    },
+
     {
       "key": "学习哔哩",
       "name": "🅱️学习┃哔哩",
@@ -237,7 +223,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://9xi4o.tk/sub/Bili/学习园地.json",
+      "ext": "./学堂.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -252,7 +238,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://9xi4o.tk/sub/Bili/女团热舞.json",
+      "ext": "./女团热舞.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -267,7 +253,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://9xi4o.tk/sub/Bili/体育赛事.json",
+      "ext": "./体育.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -283,27 +269,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://9xi4o.tk/sub/Bili/儿童乐园.json",
+      "ext": "./少儿教育.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
     },
-    {
-      "key": "幼儿哔哩",
-      "name": "🅱️幼儿┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar":"./bili.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.liucn.cc/box/libs/youer.json",
-      "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-    },
+
      {
       "key": "小学哔哩",
       "name": "🅱️小学┃课堂",
@@ -313,7 +285,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.liucn.cc/box/libs/小学课堂.json",
+      "ext": "./小学.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -328,7 +300,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.liucn.cc/box/libs/初中课堂.json",
+      "ext": "./初中.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -343,7 +315,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.liucn.cc/box/libs/高中课堂.json",
+      "ext": "./高中.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
