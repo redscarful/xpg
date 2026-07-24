@@ -182,6 +182,36 @@
                 "ratio": 1.597
             }
     },
+         {
+      "key": "合集哔哩",
+      "name": "🅱️棋牌┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./棋牌.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
+        {
+      "key": "音乐哔哩",
+      "name": "🅱️演唱会┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./bili.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./演唱会.json",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+    },
 
         {
       "key": "音乐哔哩",
