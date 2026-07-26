@@ -12,6 +12,13 @@
             "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
             "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
         },
+    {
+"name":"青龙电视",
+"type":0,
+"url":"https://www.9kds.com/tool/txt/files/yiwu369/ku9.txt",
+"ua":"Goiptv/8.8.8",
+"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+},
       {
       "name":"机缘宝盒",
       "type":0,
