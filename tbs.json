@@ -421,22 +421,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-      "key" : "HonHon",
-      "name" : "红红┃短剧",
-      "type" : 3,
-      "api" : "csp_HonHon",
-            "jar":"https://media.meilinvps.com/download.php?key=MzlmMTAyZjliODI3M2Y3ZDhkMDI4ZDI1OTU5MzY3ODU6NmU1MThlNjdlNWNkODZjZTc0YmY3OTMxMzIyYzUwNzdiM2Y5OGMxMTQ3NDYwZWY0ODFlN2EwMDYzNTYyOTkyMGM2ZmY2ZDk5NzRlODcyMjhlMjg0ZTllZjI0NWYyZGU4YTVlMDcyNWQ4MTAzNTFmMTgyYzYxMTFiNWNhNTJlOWM0YTljMjAyNjI5OTU0MDMxOWUwZGJiMTRhODdkZmE5Yg;md5;75e9e21c71cf773d649c9700f4444a21",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "genre" : "shortdrama",
-      "filterable" : 1,
-      "ext" : {
-        "host" : "https://short.fishcloud.top",
-        "quality" : "1080p",
-        "danmu" : false
-      }
-    },
+
     {
       "key" : "DJHub",
       "name" : "短剧┃聚合",
