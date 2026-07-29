@@ -218,6 +218,17 @@
       "changeable": 1,
       "filterable": 1
     },
+        
+    {
+      "key" : "PianKu8",
+      "name" : "片库|4K",
+      "type" : 3,
+      "api" : "csp_PianKu8",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "ext" : "http://qkys.qukanwh.com"
+    },
     {
       "key": "huaisang",
       "name": "怀桑┃4K",
@@ -253,19 +264,7 @@
       "ext" : "http://www.小不点.com/api//2026/fishhxq.php"
     },
 
-    {
-            "key": "热播App",
-            "name": "热播┃App",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },
+
         {
       "key" : "wencai",
       "name" : "文才┃App",
@@ -274,7 +273,18 @@
       "searchable" : 1,
       "ext" : "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
     },
- 
+    {
+      "key" : "Rebo",
+      "name" : "热播|App",
+      "type" : 3,
+      "api" : "csp_AppRJ",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 0,
+      "ext" : {
+        "url" : "http://v.rbotv.cn"
+      }
+    },
         {
             "key": "农民App",
             "name": "农民┃App",
