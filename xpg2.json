@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
+    "spider": "./1.php",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     
 "lives": [
@@ -171,6 +171,7 @@
             "name": "应用大全下载",
             "type": 3,
             "api": "csp_Market",
+            "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 0,
             "changeable": 0,
             "ext": "./6.txt"
@@ -266,6 +267,7 @@
             "name": "热播┃App",
             "type": 3,
             "api": "csp_AppRJ",
+            "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -288,6 +290,7 @@
             "name": "农民┃App",
             "type": 3,
             "api": "csp_Wwys",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "ext": "https://vip.wwgz.cn:5200"
         },
 {
@@ -295,7 +298,7 @@
       "name" : "瓜子┃App",
       "type" : 3,
       "api" : "csp_Guazi",
-            "jar":"https://media.meilinvps.com/download.php?key=MzlmMTAyZjliODI3M2Y3ZDhkMDI4ZDI1OTU5MzY3ODU6NmU1MThlNjdlNWNkODZjZTc0YmY3OTMxMzIyYzUwNzdiM2Y5OGMxMTQ3NDYwZWY0ODFlN2EwMDYzNTYyOTkyMGM2ZmY2ZDk5NzRlODcyMjhlMjg0ZTllZjI0NWYyZGU4YTVlMDcyNWQ4MTAzNTFmMTgyYzYxMTFiNWNhNTJlOWM0YTljMjAyNjI5OTU0MDMxOWUwZGJiMTRhODdkZmE5Yg;md5;75e9e21c71cf773d649c9700f4444a21",
+    "jar":"https://media.meilinvps.com/download.php?key=MzlmMTAyZjliODI3M2Y3ZDhkMDI4ZDI1OTU5MzY3ODU6NmU1MThlNjdlNWNkODZjZTc0YmY3OTMxMzIyYzUwNzdiM2Y5OGMxMTQ3NDYwZWY0ODFlN2EwMDYzNTYyOTkyMGM2ZmY2ZDk5NzRlODcyMjhlMjg0ZTllZjI0NWYyZGU4YTVlMDcyNWQ4MTAzNTFmMTgyYzYxMTFiNWNhNTJlOWM0YTljMjAyNjI5OTU0MDMxOWUwZGJiMTRhODdkZmE5Yg;md5;75e9e21c71cf773d649c9700f4444a21",
       "searchable" : 1
     },
     {
@@ -322,6 +325,7 @@
             "name": "爱看┃App",
             "type": 3,
             "api": "csp_Ikanbot",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -331,6 +335,7 @@
             "name": "骚火┃App",
             "type": 3,
             "api": "csp_SaoHuo",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "playerType": 2,
             "ext": "https://shdy5.us"
         },
@@ -339,6 +344,7 @@
             "name": "金牌┃App",
             "type": 3,
             "api": "csp_Jpys",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
 
@@ -347,6 +353,7 @@
             "name": "1905┃App",
             "type": 3,
             "api": "csp_Web1905",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
@@ -367,6 +374,7 @@
             "name": "搜搜｜影视",
             "type": 3,
             "api": "csp_AppFox",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://www.zjcvod.com"
@@ -378,6 +386,7 @@
             "name": "80S┃磁力",
             "type": 3,
             "api": "csp_BLSGod",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -387,6 +396,7 @@
             "key": "修罗",
             "name": "修罗┃磁力",
             "api": "csp_Xlys",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "type": 3,
             "ext": "https://xl01.com.de"
         },
@@ -395,6 +405,7 @@
             "name": "七味┃磁力",
             "type": 3,
             "api": "csp_QnMp4",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -402,21 +413,13 @@
                 "url": "https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
             }
         },
-        {
-            "key": "电影港",
-            "name": "电影┃磁力",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/电影港.json"
-        },
+  
         {
             "key": "电影天堂",
             "name": "天堂┃磁力",
             "type": 3,
             "api": "csp_DyGod",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -736,6 +739,7 @@
             "name": "🚑急救｜教学",
             "type": 3,
             "api": "csp_FirstAid",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -750,6 +754,7 @@
             "name": "🌸呦呦｜DJ",
             "type": 3,
             "api": "csp_Djuu",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "style": {
                 "type": "list"
             }
@@ -759,6 +764,7 @@
             "name": "🌸六月｜听书",
             "type": 3,
             "api": "csp_TingBook",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "style": {
                 "type": "list"
             }
@@ -768,6 +774,7 @@
             "name": "🌸戏曲｜多多",
             "type": 3,
             "api": "csp_AppLY",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "style": {
                 "type": "list"
             }
@@ -779,6 +786,7 @@
             "name": "请勿相信视频中广告",
             "type": 3,
             "api": "csp_XPath",
+                "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
