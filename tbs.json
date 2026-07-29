@@ -164,7 +164,7 @@
           "searchable": 1,
           "quickSearch":0,
           "filterable": 1,
-          "ext":./tbs.txt"
+          "ext":"./tbs.txt"
       },
         {
             "key": "应用商店",
