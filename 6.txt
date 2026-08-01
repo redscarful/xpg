@@ -15,7 +15,7 @@
 
 {
         "name": "小草助手",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/yecao.apk",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaocao_tv7.23.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/yecao.png",
         "version": "版本 6.23"
       },
