@@ -50,42 +50,6 @@
         "timeout": 10
     },
     {
-        "name": "央视地方台-2k，快(备用)",
-        "type": 0,
-        "url": "shturl.cc/eNQ0g8zYsCVfEo6elR0pS4Juu2mqqc",
-        "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-        "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
-        "playerType": 2,
-        "timeout": 10
-    },
-    {
-        "name": "奥斯卡",
-        "type": 0,
-        "url": "https://gitee.com/OscarWilde/itv/raw/master/tv.txt",
-        "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-        "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
-        "playerType": 2,
-        "timeout": 10
-    },
-    {
-        "name": "Kimentannm",
-        "type": 0,
-        "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-        "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-        "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
-        "playerType": 2,
-        "timeout": 10
-    },
-    {
-        "name": "yoursmile",
-        "type": 0,
-        "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
-        "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-        "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
-        "playerType": 2,
-        "timeout": 10
-    },
-    {
         "name": "日后",
         "type": 0,
         "url": "http://rihou.cc:567/gggg.nzk",
