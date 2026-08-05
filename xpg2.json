@@ -61,7 +61,7 @@
     {
         "name": "奥斯卡",
         "type": 0,
-        "url": "shturl.cc/DvZxdUms60CGsjOUKNpDY6anRkbr9AWcapTj6d8t",
+        "url": "https://gitee.com/OscarWilde/itv/raw/master/tv.txt",
         "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
         "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
         "playerType": 2,
@@ -115,7 +115,7 @@
     {
         "name": "C",
         "type": 0,
-        "url": "shturl.cc/8EMrCfV5cbDG7v0W3IVudM3SAgIb7ATrG0L5SMO",
+        "url": "https://gitee.com/yuan301/tv/raw/master/A/z_v.png",
         "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
         "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
         "playerType": 2,
@@ -133,7 +133,7 @@
     {
         "name": "博士",
         "type": 0,
-        "url": "shturl.cc/OT7QtV0EmTsWkUEgxmJIDw1xazhs6q8OBhk3QO3FpvU",
+        "url": "https://gitee.com/main-stream/tv/raw/master/BOSS.json",
         "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
         "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
         "playerType": 2,
@@ -232,7 +232,7 @@
     {
         "name": "综合",
         "type": 0,
-        "url": "shturl.cc/lN3rLN3yhrzj3",
+        "url": "https://ds65.tv1288.xyz",
         "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
         "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
         "playerType": 2,
@@ -241,7 +241,7 @@
     {
         "name": "影音",
         "type": 0,
-        "url": "shturl.cc/mh8Min9GzKqEQ1IuTAABTsHxZe2qmPTL8GEyxrYIFGrFxx9KzNNA4ws7gSLHmznfnUnLiQMZJzujggupxMa0CKPzlldmGS",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
         "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
         "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
         "playerType": 2,
@@ -277,7 +277,7 @@
     {
         "name": "zbds1",
         "type": 0,
-        "url": "shturl.cc/zSPa4DEpLuUVRVdwXrpCVMet",
+        "url": "https://live.zbds.top/tv/iptv4.txt",
         "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
         "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
         "playerType": 2,
@@ -286,7 +286,7 @@
     {
         "name": "zbds2",
         "type": 0,
-        "url": "shturl.cc/p31qG6fz0GhFt89cyUJIZbDl",
+        "url": "https://live.zbds.top/tv/iptv4.m3u",
         "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
         "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
         "playerType": 2,
