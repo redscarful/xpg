@@ -12,6 +12,42 @@
       "playerType":2,
       "timeout":10
       },
+    {
+            "type": 0,
+            "name": "三网",
+            "playerType":2,
+            "ua": "okhttp/3.15",
+            "url": "https://pub.tgyes.eu.org/111.txt",
+            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+    {
+            "type": 0,
+            "name": "雷霆",
+            "playerType":2,
+            "ua": "okhttp/3.15",
+            "url": "https://pub.tgyes.eu.org/555.txt",
+            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+    {
+            "type": 0,
+            "name": "黑枭",
+            "playerType":2,
+            "ua": "okhttp/3.15",
+            "url": "https://cdn.qd.je/163189/fhzw",
+            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
+    {
+            "type": 0,
+            "name": "麒麟",
+            "playerType":2,
+            "ua": "okhttp/3.15",
+            "url": "https://zb.fcapp.indevs.in/tv2.txt",
+            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+        },
      {
             "type": 0,
             "name": "易发",
