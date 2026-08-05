@@ -30,15 +30,7 @@
             "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
             "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
         },
-    {
-            "type": 0,
-            "name": "黑枭",
-            "playerType":2,
-            "ua": "okhttp/3.15",
-            "url": "https://cdn.qd.je/163189/fhzw",
-            "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
-        },
+
     {
             "type": 0,
             "name": "麒麟",
@@ -85,15 +77,7 @@
         "playerType": 2,
         "timeout": 10
     },
-    {
-        "name": "央视地方台-2k，快(备用)",
-        "type": 0,
-        "url": "shturl.cc/eNQ0g8zYsCVfEo6elR0pS4Juu2mqqc",
-        "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-        "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
-        "playerType": 2,
-        "timeout": 10
-    },
+
     {
         "name": "奥斯卡",
         "type": 0,
