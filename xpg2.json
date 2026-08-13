@@ -1,6 +1,6 @@
 {
     "spider": "https://qiniu.gongxueyun.com/upload/9005517/2026-08-11/visa_free/100397520_4_1786443941778.jar;md5;e59b88f36887b0fb212ae117a3126a56",
-    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+    "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "danmaku" : "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
 "lives": [
           {
