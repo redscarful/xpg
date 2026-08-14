@@ -546,6 +546,73 @@
             "changeable": 0,
             "ext": "./6.txt"
         },
+        {
+      "key" : "山楂影视",
+      "name" : "山楂┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/inBxb414fqde&pwd=14u3",
+      "api" : "csp_PianKu8"
+    },
+        {
+      "key" : "马猴影视",
+      "name" : "马猴┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/inBxb414fqde&pwd=14u3",
+      "api" : "csp_App3Q",
+      "ext" : {
+        "host" : "https://45.150.167.18:8000",
+        "finger" : "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
+        "updateId" : "43c1ef69-3748-aaeb-317f-c621c77653ee",
+        "deviceBrand" : "vivo",
+        "deviceModel" : "V2309A",
+        "pkg" : "com.damahou.tv",
+        "sk" : "SK-woniu-thanks",
+        "ver" : "1"
+      }
+    },
+        {
+      "key" : "飞娱影视",
+      "name" : "飞娱┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/inBxb414fqde&pwd=14u3",
+      "api" : "csp_Feiyu"
+    },
+        {
+      "key" : "YunZhenXiang",
+      "name" : "云帧享┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "api" : "csp_YunZhenXiang",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "ext" : {
+        "index_url" : "https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json",
+        "key_api" : "https://www.tangsan.fun/zx.php"
+      }
+    },
+        {
+      "key" : "AiKan_Spider",
+      "name" : "爱看┃┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "api" : "csp_AiKan",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "ext" : "http://43.248.117.123:4680"
+    },
+        {
+      "key" : "HkybSpider",
+      "name" : "世界┃┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "api" : "csp_HkybSpider",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "ext" : ""
+    },
     {
       "key" : "Rebo",
       "name" : "热播|App",
@@ -567,17 +634,6 @@
             "ext": "https://vip.wwgz.cn:5200"
         },
 
-
-        {
-            "key": "爱看机器人",
-            "name": "爱看┃App",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "骚火App",
             "name": "骚火┃App",
