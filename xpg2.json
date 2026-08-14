@@ -613,6 +613,57 @@
       "filterable" : 1,
       "ext" : ""
     },
+        {
+      "key" : "Osstexll",
+      "name" : "八戒┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "api" : "csp_Tounimabi",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "ext" : ""
+    },
+        {
+      "key" : "csp_Gz360",
+      "name" : "瓜子┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "searchable" : 1,
+      "quickSearch" : 0,
+      "api" : "csp_Gz360"
+    },
+        {
+      "key" : "稀饭动漫[APP]",
+      "name" : "稀饭┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "api" : "csp_CycSpider",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "ext" : "https://www.tangsan.fun/config.php?source=xifan"
+    },
+       {
+      "key" : "csp_Jpys",
+      "name" : "金牌┃高清",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "timeout" : 12,
+      "searchable" : 1,
+      "quickSearch" : 0,
+      "api" : "csp_Jpys",
+      "ext" : "https://y2s52n7.com"
+    },
+        {
+      "key" : "柠檬",
+      "name" : "柠檬┃App",
+      "type" : 3,
+      "api" : "csp_Nmvod",
+      "playerType" : 2,
+      "jar" : "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext" : "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
     {
       "key" : "Rebo",
       "name" : "热播|App",
