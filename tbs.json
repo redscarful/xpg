@@ -780,16 +780,16 @@
             "filterable": 1
         },
         
-        {
+       {
       "key": "沙雕哔哩",
       "name": "🅱️合集┃哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./bilibili.json",
+      "ext": "http://38.76.193.127/tvbox2/Bili/bilibili.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -801,11 +801,11 @@
       "name": "🅱️软件┃哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./软件教程.json",
+      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/软件教程.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -816,11 +816,11 @@
       "name": "🅱️大全┃哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./哔哩.json",
+      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/哔哩.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -832,11 +832,11 @@
       "name": "🅱️音乐┃哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./演唱会.json",
+      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/演唱会.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -847,11 +847,11 @@
       "name": "🅱️美食┃哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./美食合集.json",
+      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/美食合集.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -862,11 +862,11 @@
       "name": "🅱️戏曲┃哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./戏曲.json",
+      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/戏曲.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -877,11 +877,11 @@
       "name": "🅱️学习┃哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./学堂.json",
+      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/学堂.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -892,11 +892,11 @@
       "name": "🅱️女团┃哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./女团热舞.json",
+      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/女团热舞.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -907,11 +907,11 @@
       "name": "🅱️体育┃哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./体育.json",
+      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/体育.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -923,11 +923,11 @@
       "name": "🅱️儿童┃哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./少儿教育.json",
+      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/少儿教育.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -939,11 +939,11 @@
       "name": "🅱️小学┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./小学.json",
+      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/小学.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -954,11 +954,11 @@
       "name": "🅱️初中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./初中.json",
+      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/初中.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -969,11 +969,11 @@
       "name": "🅱️高中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./bili.jar",
+      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./高中.json",
+      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/高中.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -984,7 +984,7 @@
             "name": "🏀看球┃直播",
             "type": 3,
             "api": "csp_Kanqiu",
-            "jar":"./spider2.jar",
+            "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider2.jar",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
