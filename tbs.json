@@ -1,7 +1,6 @@
 {
     "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJzcGlkZXIuamFyIiwidWlkIjoxMDg0Mjg0MiwicGlkIjo0Nzk3MzM3Niwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDA4IiwicnAiOiJyZXBvcy80NS9lNS80NWU1MWJjM2VhZTIyMmI1N2ZmYzE4MjAwZGQzZDE5NGMxNjA3MmY1MjQ1M2Q5YTczNzAwYjg3NTU2OGJiZTlkLmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzg0NDY3ODAwfQ&signature=fExwKMibdozGbwwBZnUURN-BPehOJBbUhYkKaCulN5M",
-    "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-    "danmaku" : "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
+    "wallpaper" : "https://t.alcy.cc/fj",
 "lives": [
           {
       "name":"机缘宝盒",
