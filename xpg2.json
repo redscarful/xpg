@@ -721,6 +721,24 @@
             "jar": "./橘皮.jar",
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
+              {
+      "key" : "csp_duanju",
+      "name" : "盒马┃短剧",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "timeout" : 12,
+      "api" : "csp_HeMa"
+    },
+    {
+      "key" : "csp_XY",
+      "name" : "星芽┃短剧",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "searchable" : 1,
+      "timeout" : 12,
+      "api" : "csp_AppXY",
+      "ext" : ""
+    },
 
 
         {
