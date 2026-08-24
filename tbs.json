@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJzcGlkZXIuamFyIiwidWlkIjoxMDg0Mjg0MiwicGlkIjo0Nzk3MzM3Niwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDA4IiwicnAiOiJyZXBvcy80NS9lNS80NWU1MWJjM2VhZTIyMmI1N2ZmYzE4MjAwZGQzZDE5NGMxNjA3MmY1MjQ1M2Q5YTczNzAwYjg3NTU2OGJiZTlkLmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzg0NDY3ODAwfQ&signature=fExwKMibdozGbwwBZnUURN-BPehOJBbUhYkKaCulN5M",
-    "wallpaper" : "https://t.alcy.cc/fj",
+"spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJzcGlkZXIuamFyIiwidWlkIjoxMDg0Mjg0MiwicGlkIjo0Nzk3MzM3Niwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDA4IiwicnAiOiJyZXBvcy80NS9lNS80NWU1MWJjM2VhZTIyMmI1N2ZmYzE4MjAwZGQzZDE5NGMxNjA3MmY1MjQ1M2Q5YTczNzAwYjg3NTU2OGJiZTlkLmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzg0NDY3ODAwfQ&signature=fExwKMibdozGbwwBZnUURN-BPehOJBbUhYkKaCulN5M",
+"wallpaper" : "https://t.alcy.cc/fj",
 "lives": [
           {
       "name":"机缘宝盒",
@@ -528,7 +528,7 @@
 
     ],
     "sites": [
- {
+{
             "key": "豆瓣2",
             "name": "豆瓣┃推荐👉最新NewTv影视追剧、港澳日韩直播 K歌四合一，小草口令11AA 66DD",
             "type": 3,
@@ -567,6 +567,44 @@
         "pkg" : "com.damahou.tv",
         "sk" : "SK-woniu-thanks",
         "ver" : "1"
+      }
+    },
+              
+  {
+      "key" : "4K影视",
+      "name" : "热门┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/iEyHv43n6jja&pwd=7eqs",
+      "api" : "csp_AppGet",
+      "quickSearch" : 1,
+      "timeout" : 12,
+      "ext" : "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+    },
+               {
+      "key" : "枫叶影视",
+      "name" : "枫叶┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/iEyHv43n6jja&pwd=7eqs",
+      "api" : "csp_FengYe",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 0,
+      "ext" : "https://www.vip1949.com/"
+    },
+    {
+      "key" : "半日99",
+      "name" : "半日┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/iEyHv43n6jja&pwd=7eqs",
+      "api" : "csp_App99",
+      "ext" : {
+        "host" : "http://103.217.190.91:19987/app/bn",
+        "appkey" : "24d625a8a29b4700a1a294c6f3b29e2c",
+        "versionName" : "3.5.8",
+        "name" : "半日闲",
+        "package" : "com.yf.lelian",
+        "buildNumber" : "2001",
+        "buildSignature" : "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       }
     },
         {
@@ -721,6 +759,92 @@
             "jar": "./橘皮.jar",
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
+              {
+      "key" : "csp_duanju",
+      "name" : "盒马┃短剧",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "timeout" : 12,
+      "api" : "csp_HeMa"
+    },
+    {
+      "key" : "csp_XY",
+      "name" : "星芽┃短剧",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "searchable" : 1,
+      "timeout" : 12,
+      "api" : "csp_AppXY",
+      "ext" : ""
+    },
+              {
+      "key": "ZPan",
+      "name": "🎈盘搜┃四盘",
+      "type": 3,
+      "api": "csp_S_zpsGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "siteUrl": "http://107.173.211.148/"
+      },
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "JPan",
+      "name": "🦋易搜┃四盘",
+      "type": 3,
+      "api": "csp_S_zpsGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "siteUrl": "https://so.252035.xyz/"
+      },
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "YpanSo",
+      "name": "🐟盘她┃夸父",
+      "type": 3,
+      "api": "csp_YpanSoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "BpanSo",
+      "name": "🐞盘他┃嘟嘟",
+      "type": 3,
+      "api": "csp_BpanSoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "抠搜",
+      "name": "🍄抠抠┃搜搜",
+      "type": 3,
+      "api": "csp_KkSsGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
 
 
         {
@@ -728,7 +852,7 @@
             "name": "搜搜｜影视",
             "type": 3,
             "api": "csp_AppFox",
-                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
+            "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://www.zjcvod.com"
@@ -778,25 +902,8 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        
         {
-      "key" : "csp_duanju",
-      "name" : "盒马┃短剧",
-      "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
-      "timeout" : 12,
-      "api" : "csp_HeMa"
-    },
-    {
-      "key" : "csp_XY",
-      "name" : "星芽┃短剧",
-      "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
-      "searchable" : 1,
-      "timeout" : 12,
-      "api" : "csp_AppXY",
-      "ext" : ""
-    },
-       {
       "key": "沙雕哔哩",
       "name": "🅱️合集┃哔哩",
       "type": 3,
@@ -995,24 +1102,67 @@
                 "ratio": 1.597
             }
     },
-     {
-            "key": "88看球",
-            "name": "🏀看球┃直播",
-            "type": 3,
-            "api": "csp_Kanqiu",
-            "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider2.jar",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0
-        },
+        {
+      "key" : "看球",
+      "name" : "🏀八八┃看球",
+      "type" : 3,
+      "api" : "csp_KanqiuGuard",
+      "timeout" : 10,
+      "searchable" : 0,
+      "changeable" : 0,
+      "style" : {
+        "type" : "list"
+      }
+    },
+    {
+      "key" : "多多",
+      "name" : "🏀多多┃看球",
+      "type" : 3,
+      "api" : "csp_DoubaoGuard",
+       "jar" : "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
+      "searchable" : 0,
+      "quickSearch" : 0,
+      "changeable" : 0,
+      "style" : {
+        "type" : "list"
+      }
+    },
+    {
+      "key" : "吃瓜",
+      "name" : "🏐吃瓜┃看球",
+      "type" : 3,
+      "api" : "csp_LiveGzGuard",
+              "jar" : "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
+      "searchable" : 0,
+      "quickSearch" : 0,
+      "changeable" : 0,
+      "style" : {
+        "type" : "list"
+      }
+    },
+    {
+      "key" : "alllive",
+      "name" : "🎮一直播┃直播",
+      "type" : 3,
+      "api" : "csp_AllliveGuard",
+              "jar" : "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
+      "style" : {
+        "type" : "rect",
+        "ratio" : 1.597
+      },
+      "timeout" : 15,
+      "playerType" : "2",
+      "searchable" : 0,
+      "quickSearch" : 0,
+      "changeable" : 0,
+      "ext" : "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
+    },
         {
             "key": "急救教学",
             "name": "🚑急救｜教学",
             "type": 3,
             "api": "csp_FirstAid",
-                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
+            "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -1022,21 +1172,40 @@
             },
             "gridview": "0-0-4.1"
         },
+              {
+      "key" : "MTV1",
+      "name" : "音乐┃带歌词",
+      "type" : 3,
+      "api" : "csp_MusicGuard",
+      "jar" : "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",                 
+      "style" : {
+        "type" : "rect",
+        "ratio" : 1
+      },
+      "playerType" : 2,
+      "searchable" : 0,
+      "quickSearch" : 0,
+      "changeable" : 0
+    },
+              {
+      "key" : "有声小说",
+      "name" : "🎧有声┃小说",
+      "type" : 3,
+      "api" : "csp_Tingshu275Guard",
+      "jar" : "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
+      "style" : {
+        "type" : "rect",
+        "ratio" : 1
+      },
+      "searchable" : 0,
+      "quickSearch" : 0,
+      "changeable" : 0
+    },
         {
             "key": "呦呦DJ",
-            "name": "🌸呦呦｜DJ",
+            "name": "呦呦｜DJ",
             "type": 3,
             "api": "csp_Djuu",
-                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "六月听书",
-            "name": "🌸六月｜听书",
-            "type": 3,
-            "api": "csp_TingBook",
                 "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "style": {
                 "type": "list"
