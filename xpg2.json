@@ -552,34 +552,8 @@
       "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/inBxb414fqde&pwd=14u3",
       "api" : "csp_PianKu8"
     },
-        {
-      "key" : "马猴影视",
-      "name" : "马猴┃App",
-      "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/inBxb414fqde&pwd=14u3",
-      "api" : "csp_App3Q",
-      "ext" : {
-        "host" : "https://45.150.167.18:8000",
-        "finger" : "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
-        "updateId" : "43c1ef69-3748-aaeb-317f-c621c77653ee",
-        "deviceBrand" : "vivo",
-        "deviceModel" : "V2309A",
-        "pkg" : "com.damahou.tv",
-        "sk" : "SK-woniu-thanks",
-        "ver" : "1"
-      }
-    },
+
               
-  {
-      "key" : "4K影视",
-      "name" : "热门┃App",
-      "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/iEyHv43n6jja&pwd=7eqs",
-      "api" : "csp_AppGet",
-      "quickSearch" : 1,
-      "timeout" : 12,
-      "ext" : "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
-    },
                {
       "key" : "枫叶影视",
       "name" : "枫叶┃App",
@@ -591,22 +565,7 @@
       "filterable" : 0,
       "ext" : "https://www.vip1949.com/"
     },
-    {
-      "key" : "半日99",
-      "name" : "半日┃App",
-      "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/iEyHv43n6jja&pwd=7eqs",
-      "api" : "csp_App99",
-      "ext" : {
-        "host" : "http://103.217.190.91:19987/app/bn",
-        "appkey" : "24d625a8a29b4700a1a294c6f3b29e2c",
-        "versionName" : "3.5.8",
-        "name" : "半日闲",
-        "package" : "com.yf.lelian",
-        "buildNumber" : "2001",
-        "buildSignature" : "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-      }
-    },
+
         {
       "key" : "YunZhenXiang",
       "name" : "云帧享┃App",
