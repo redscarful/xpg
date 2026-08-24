@@ -582,7 +582,7 @@
     },
         {
       "key" : "AiKan_Spider",
-      "name" : "爱看┃┃App",
+      "name" : "爱看┃App",
       "type" : 3,
       "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
       "api" : "csp_AiKan",
@@ -593,7 +593,7 @@
     },
         {
       "key" : "HkybSpider",
-      "name" : "世界┃┃App",
+      "name" : "世界┃App",
       "type" : 3,
       "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
       "api" : "csp_HkybSpider",
