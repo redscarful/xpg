@@ -608,13 +608,6 @@
       }
     },
         {
-      "key" : "飞娱影视",
-      "name" : "飞娱┃App",
-      "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/inBxb414fqde&pwd=14u3",
-      "api" : "csp_Feiyu"
-    },
-        {
       "key" : "YunZhenXiang",
       "name" : "云帧享┃App",
       "type" : 3,
