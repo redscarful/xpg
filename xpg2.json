@@ -1059,6 +1059,7 @@
       "name" : "🏀八八┃看球",
       "type" : 3,
       "api" : "csp_KanqiuGuard",
+"jar" : "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
       "timeout" : 10,
       "searchable" : 0,
       "changeable" : 0,
