@@ -528,7 +528,8 @@
 
     ],
     "sites": [
- {
+       
+       {
             "key": "豆瓣2",
             "name": "豆瓣┃推荐",
             "type": 3,
@@ -537,10 +538,9 @@
         },
         {
             "key": "应用商店",
-            "name": "应用大全下载",
+            "name": "软件大全下载",
             "type": 3,
             "api": "csp_Market",
-            "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 0,
             "changeable": 0,
             "ext": "./6.txt"
@@ -552,23 +552,31 @@
       "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/inBxb414fqde&pwd=14u3",
       "api" : "csp_PianKu8"
     },
-
-
-        {
-      "key" : "YunZhenXiang",
-      "name" : "云帧享┃App",
+    {
+      "key" : "马猴影视",
+      "name" : "马猴┃App",
       "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
-      "api" : "csp_YunZhenXiang",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 1,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/inBxb414fqde&pwd=14u3",
+      "api" : "csp_App3Q",
       "ext" : {
-        "index_url" : "https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json",
-        "key_api" : "https://www.tangsan.fun/zx.php"
+        "host" : "https://45.150.167.18:8000",
+        "finger" : "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
+        "updateId" : "43c1ef69-3748-aaeb-317f-c621c77653ee",
+        "deviceBrand" : "vivo",
+        "deviceModel" : "V2309A",
+        "pkg" : "com.damahou.tv",
+        "sk" : "SK-woniu-thanks",
+        "ver" : "1"
       }
     },
-        {
+     {
+      "key" : "飞娱影视",
+      "name" : "飞娱┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/inBxb414fqde&pwd=14u3",
+      "api" : "csp_Feiyu"
+    },
+    {
       "key" : "AiKan_Spider",
       "name" : "爱看┃App",
       "type" : 3,
@@ -579,7 +587,7 @@
       "filterable" : 1,
       "ext" : "http://43.248.117.123:4680"
     },
-        {
+    {
       "key" : "HkybSpider",
       "name" : "世界┃App",
       "type" : 3,
@@ -590,7 +598,7 @@
       "filterable" : 1,
       "ext" : ""
     },
-        {
+    {
       "key" : "Osstexll",
       "name" : "八戒┃App",
       "type" : 3,
@@ -601,7 +609,7 @@
       "filterable" : 1,
       "ext" : ""
     },
-        {
+    {
       "key" : "csp_Gz360",
       "name" : "瓜子┃App",
       "type" : 3,
@@ -610,9 +618,9 @@
       "quickSearch" : 0,
       "api" : "csp_Gz360"
     },
-        {
+    {
       "key" : "稀饭动漫[APP]",
-      "name" : "稀饭┃App",
+      "name" : "稀饭┃动漫",
       "type" : 3,
       "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
       "api" : "csp_CycSpider",
@@ -621,85 +629,7 @@
       "filterable" : 1,
       "ext" : "https://www.tangsan.fun/config.php?source=xifan"
     },
-       {
-      "key" : "csp_Jpys",
-      "name" : "金牌┃高清",
-      "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
-      "timeout" : 12,
-      "searchable" : 1,
-      "quickSearch" : 0,
-      "api" : "csp_Jpys",
-      "ext" : "https://y2s52n7.com"
-    },
-        {
-      "key" : "柠檬",
-      "name" : "柠檬┃App",
-      "type" : 3,
-      "api" : "csp_Nmvod",
-      "playerType" : 2,
-      "jar" : "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext" : "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
     {
-      "key" : "Rebo",
-      "name" : "热播|App",
-      "type" : 3,
-      "api" : "csp_AppRJ",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 0,
-      "ext" : {
-        "url" : "http://v.rbotv.cn"
-      }
-    },
-        {
-            "key": "农民App",
-            "name": "农民┃App",
-            "type": 3,
-            "api": "csp_Wwys",
-            "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
-            "ext": "https://vip.wwgz.cn:5200"
-        },
-
-        {
-            "key": "骚火App",
-            "name": "骚火┃App",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
-            "playerType": 2,
-            "ext": "https://shdy5.us"
-        },
-        {
-            "key": "金牌App",
-            "name": "金牌┃App",
-            "type": 3,
-            "api": "csp_Jpys",
-            "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
-            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-        },
-
-        {
-            "key": "1905",
-            "name": "1905┃App",
-            "type": 3,
-            "api": "csp_Web1905",
-                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "橘皮",
-            "name": "橘皮┃App",
-            "type": 3,
-            "api": "csp_Jpys",
-            "playerType": 1,
-            "jar": "./橘皮.jar",
-            "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-        },
-              {
       "key" : "csp_duanju",
       "name" : "盒马┃短剧",
       "type" : 3,
@@ -717,94 +647,90 @@
       "api" : "csp_AppXY",
       "ext" : ""
     },
-              {
-      "key": "ZPan",
-      "name": "🎈盘搜┃四盘",
-      "type": 3,
-      "api": "csp_S_zpsGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "siteUrl": "http://107.173.211.148/"
-      },
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      }
+    {
+      "key" : "csp_Jpys",
+      "name" : "金牌┃高清",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "timeout" : 12,
+      "searchable" : 1,
+      "quickSearch" : 0,
+      "api" : "csp_Jpys",
+      "ext" : "https://y2s52n7.com"
     },
     {
-      "key": "JPan",
-      "name": "🦋易搜┃四盘",
-      "type": 3,
-      "api": "csp_S_zpsGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "siteUrl": "https://so.252035.xyz/"
-      },
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      }
+      "key" : "柠檬",
+      "name" : "柠檬┃App",
+      "type" : 3,
+      "api" : "csp_Nmvod",
+      "playerType" : 2,
+      "jar" : "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext" : "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
+        
     {
-      "key": "YpanSo",
-      "name": "🐟盘她┃夸父",
-      "type": 3,
-      "api": "csp_YpanSoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
-      }
-    },
+            "key": "芒果",
+            "name": "芒果┃App",
+            "type": 3,
+            "playerType": "2",
+            "searchable": 1,
+            "changeable": 0,
+            "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+            "ext": "https://raw.liucn.cc/box/libs/js/百忙无果.js"
+        },
+         {
+            "key": "农民App",
+            "name": "农民┃App",
+            "type": 3,
+            "api": "csp_Wwys",
+            "ext": "https://vip.wwgz.cn:5200"
+        },
     {
-      "key": "BpanSo",
-      "name": "🐞盘他┃嘟嘟",
-      "type": 3,
-      "api": "csp_BpanSoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
-      }
-    },
-    {
-      "key": "抠搜",
-      "name": "🍄抠抠┃搜搜",
-      "type": 3,
-      "api": "csp_KkSsGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
-      }
-    },
-
+            "key": "热播App",
+            "name": "热播┃App",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
 
         {
-            "key": "搜搜",
-            "name": "搜搜｜影视",
+            "key": "金牌App",
+            "name": "金牌┃App",
             "type": 3,
-            "api": "csp_AppFox",
-            "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.zjcvod.com"
+            "api": "csp_Jpys",
+            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
-        
+        {
+            "key": "1905",
+            "name": "1905┃App",
+            "type": 3,
+            "api": "csp_Web1905",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "橘皮",
+            "name": "橘皮┃App",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 1,
+            "jar": "http://38.76.193.127/橘皮.jar",
+            "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+        },
+
     
+       
         {
             "key": "80S",
-            "name": "80S┃磁力",
+            "name": "🎃80S┃磁力",
             "type": 3,
             "api": "csp_BLSGod",
-                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -812,18 +738,16 @@
         },
         {
             "key": "修罗",
-            "name": "修罗┃磁力",
+            "name": "🎃修罗┃磁力",
             "api": "csp_Xlys",
-                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "type": 3,
             "ext": "https://xl01.com.de"
         },
         {
             "key": "七味",
-            "name": "七味┃磁力",
+            "name": "🎃七味┃磁力",
             "type": 3,
             "api": "csp_QnMp4",
-                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -831,18 +755,16 @@
                 "url": "https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
             }
         },
-  
+
         {
             "key": "电影天堂",
-            "name": "天堂┃磁力",
+            "name": "🎃天堂┃磁力",
             "type": 3,
             "api": "csp_DyGod",
-                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-        
         {
       "key": "沙雕哔哩",
       "name": "🅱️合集┃哔哩",
@@ -910,11 +832,11 @@
       "name": "🅱️美食┃哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/bili.jar",
+      "jar":"./bili.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/美食合集.json",
+      "ext": "./美食合集.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597
