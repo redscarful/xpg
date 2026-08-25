@@ -553,18 +553,6 @@
       "api" : "csp_PianKu8"
     },
 
-              
-               {
-      "key" : "枫叶影视",
-      "name" : "枫叶┃App",
-      "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/iEyHv43n6jja&pwd=7eqs",
-      "api" : "csp_FengYe",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 0,
-      "ext" : "https://www.vip1949.com/"
-    },
 
         {
       "key" : "YunZhenXiang",
