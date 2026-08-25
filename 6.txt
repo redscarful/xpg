@@ -19,6 +19,7 @@
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/yecao.png",
         "version": "版本 8.6.3"
       },
+
 {
         "name": "二狗助手",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/ergou.apk",
@@ -61,12 +62,7 @@
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1863157714193592320.jpg",
         "version": "儿童学习"
       },
-{
-        "name": "小苹果音乐TV版",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/music.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061648416357756928.jpg",
-        "version": "TV听歌"
-      },
+
 {
         "name": "小白浏览器",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaobai.apk",
@@ -85,24 +81,14 @@
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2060665888508002304.jpg",
         "version": "影视点播"
       },
-{
-        "name": "星海体育",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xinghai.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061264286458056704.jpg",
-        "version": "足球篮球"
-      },
+
 {
         "name": "大强影视",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/daqiang.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061308927965933568.jpg",
         "version": "软件管家"
       },
-{
-        "name": "艺华直播",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/yihua.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2047121710360080384.jpg",
-        "version": "软件管家"
-      },
+
 
 {
         "name": "当贝市场",
