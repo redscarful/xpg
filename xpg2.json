@@ -667,17 +667,7 @@
       "jar" : "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext" : "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
-        
-    {
-            "key": "芒果",
-            "name": "芒果┃App",
-            "type": 3,
-            "playerType": "2",
-            "searchable": 1,
-            "changeable": 0,
-            "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
-            "ext": "https://raw.liucn.cc/box/libs/js/百忙无果.js"
-        },
+
          {
             "key": "农民App",
             "name": "农民┃App",
