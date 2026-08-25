@@ -1093,23 +1093,7 @@
         "type" : "list"
       }
     },
-    {
-      "key" : "alllive",
-      "name" : "🎮一直播┃直播",
-      "type" : 3,
-      "api" : "csp_AllliveGuard",
-              "jar" : "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
-      "style" : {
-        "type" : "rect",
-        "ratio" : 1.597
-      },
-      "timeout" : 15,
-      "playerType" : "2",
-      "searchable" : 0,
-      "quickSearch" : 0,
-      "changeable" : 0,
-      "ext" : "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
-    },
+
         {
             "key": "急救教学",
             "name": "🚑急救｜教学",
@@ -1125,21 +1109,6 @@
             },
             "gridview": "0-0-4.1"
         },
-              {
-      "key" : "MTV1",
-      "name" : "音乐┃带歌词",
-      "type" : 3,
-      "api" : "csp_MusicGuard",
-      "jar" : "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",                 
-      "style" : {
-        "type" : "rect",
-        "ratio" : 1
-      },
-      "playerType" : 2,
-      "searchable" : 0,
-      "quickSearch" : 0,
-      "changeable" : 0
-    },
               {
       "key" : "有声小说",
       "name" : "🎧有声┃小说",
