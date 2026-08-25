@@ -1085,7 +1085,7 @@
       "name" : "🏐吃瓜┃看球",
       "type" : 3,
       "api" : "csp_LiveGzGuard",
-              "jar" : "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
+      "jar" : "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
       "searchable" : 0,
       "quickSearch" : 0,
       "changeable" : 0,
@@ -1109,20 +1109,7 @@
             },
             "gridview": "0-0-4.1"
         },
-              {
-      "key" : "有声小说",
-      "name" : "🎧有声┃小说",
-      "type" : 3,
-      "api" : "csp_Tingshu275Guard",
-      "jar" : "https://zl.wpscdn.cn/2026/08/23/space_img/1a66fcc9-b1f9-4853-86f8-cf20feb7fdd1.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
-      "style" : {
-        "type" : "rect",
-        "ratio" : 1
-      },
-      "searchable" : 0,
-      "quickSearch" : 0,
-      "changeable" : 0
-    },
+
         {
             "key": "呦呦DJ",
             "name": "呦呦｜DJ",
