@@ -683,48 +683,72 @@
             "jar": "http://38.76.193.127/橘皮.jar",
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
-
+    {
+      "key": "量子资源",
+      "name": "量子┃App",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": 
+      [
+     "国产剧",
+      "泰国剧",
+      "台湾剧",
+      "香港剧",
+      "欧美剧", 
+      "韩国剧", 
+      "日本剧",
+      "大陆综艺",
+      "港台综艺",
+      "日韩综艺",
+      "欧美综艺",
+      "国产动漫",
+      "日韩动漫",
+      "欧美动漫",
+      "港台动漫",
+      "海外动漫",
+      "短剧", 
+      "剧情片", 
+      "动作片", 
+      "爱情片", 
+      "喜剧片"
+      ]
+    },
     
-       
-        {
-            "key": "80S",
-            "name": "🎃80S┃磁力",
-            "type": 3,
-            "api": "csp_BLSGod",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "修罗",
-            "name": "🎃修罗┃磁力",
-            "api": "csp_Xlys",
-            "type": 3,
-            "ext": "https://xl01.com.de"
-        },
-        {
-            "key": "七味",
-            "name": "🎃七味┃磁力",
-            "type": 3,
-            "api": "csp_QnMp4",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "url": "https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
-            }
-        },
+    {
+      "key": "非凡资源",
+      "name": "非凡┃App",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": 
+      [
+     "国产剧",
+      "泰国剧",
+      "台湾剧",
+      "香港剧",
+      "欧美剧", 
+      "韩国剧", 
+      "日本剧",
+      "大陆综艺",
+      "港台综艺",
+      "日韩综艺",
+      "欧美综艺",
+      "国产动漫",
+      "日韩动漫",
+      "欧美动漫",
+      "港台动漫",
+      "海外动漫",
+      "短剧", 
+      "剧情片", 
+      "动作片", 
+      "爱情片", 
+      "喜剧片"
+      ]
+    },
 
-        {
-            "key": "电影天堂",
-            "name": "🎃天堂┃磁力",
-            "type": 3,
-            "api": "csp_DyGod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
       "key": "沙雕哔哩",
       "name": "🅱️合集┃哔哩",
