@@ -695,15 +695,7 @@
             "api": "csp_Jpys",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
-        {
-            "key": "1905",
-            "name": "1905┃App",
-            "type": 3,
-            "api": "csp_Web1905",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+
         {
             "key": "橘皮",
             "name": "橘皮┃App",
@@ -711,50 +703,20 @@
             "api": "csp_Jpys",
             "playerType": 1,
             "jar": "http://38.76.193.127/橘皮.jar",
-            "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+            "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
         },
-
-    
-       
-        {
-            "key": "80S",
-            "name": "🎃80S┃磁力",
-            "type": 3,
-            "api": "csp_BLSGod",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "修罗",
-            "name": "🎃修罗┃磁力",
-            "api": "csp_Xlys",
-            "type": 3,
-            "ext": "https://xl01.com.de"
-        },
-        {
-            "key": "七味",
-            "name": "🎃七味┃磁力",
-            "type": 3,
-            "api": "csp_QnMp4",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "url": "https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
-            }
-        },
-
-        {
-            "key": "电影天堂",
-            "name": "🎃天堂┃磁力",
-            "type": 3,
-            "api": "csp_DyGod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+              {
+      "key" : "Sir88",
+      "name" : "体育┃直播",
+      "type" : 3,
+      "api" : "csp_Sir88",
+      "jar":"https://tc-new.z.wiki/autoupload/k2fxc/20260902/xJZz/fish09020618.jar;md5;282aee405654188f1bc1822bbf137410",
+      "searchable" : 0,
+      "filterable" : 1,
+      "indexs" : 0,
+      "style" : {
+        "type" : "list"
+      },
         {
       "key": "沙雕哔哩",
       "name": "🅱️合集┃哔哩",
