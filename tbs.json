@@ -545,6 +545,38 @@
             "changeable": 0,
             "ext": "./tbss.txt"
         },
+{
+      "key" : "毒舌影视",
+      "name" : "毒舌┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
+      "api" : "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/毒舌影视.js"
+    },
+    {
+      "key" : "永乐",
+      "name" : "永乐┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
+      "api" : "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js"
+    },
+    {
+      "key" : "独播库",
+      "name" : "播库┃App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
+      "api" : "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js"
+    },
+    {
+      "key" : "移动",
+      "name" : "️移动App",
+      "type" : 3,
+      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
+      "api" : "csp_Yidong4K",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "timeout" : 60
+    },
     {
       "key" : "AiKan_Spider",
       "name" : "爱看┃App",
@@ -664,7 +696,15 @@
             "api": "csp_Jpys",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
-
+        {
+            "key": "1905",
+            "name": "1905┃App",
+            "type": 3,
+            "api": "csp_Web1905",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
         {
             "key": "橘皮",
             "name": "橘皮┃App",
@@ -674,6 +714,72 @@
             "jar": "http://38.76.193.127/橘皮.jar",
             "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
         },
+    {
+      "key": "量子资源",
+      "name": "量子┃App",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": 
+      [
+     "国产剧",
+      "泰国剧",
+      "台湾剧",
+      "香港剧",
+      "欧美剧", 
+      "韩国剧", 
+      "日本剧",
+      "大陆综艺",
+      "港台综艺",
+      "日韩综艺",
+      "欧美综艺",
+      "国产动漫",
+      "日韩动漫",
+      "欧美动漫",
+      "港台动漫",
+      "海外动漫",
+      "短剧", 
+      "剧情片", 
+      "动作片", 
+      "爱情片", 
+      "喜剧片",
+      "伦理片"
+      ]
+    },
+    
+    {
+      "key": "非凡资源",
+      "name": "非凡┃App",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": 
+      [
+     "国产剧",
+      "泰国剧",
+      "台湾剧",
+      "香港剧",
+      "欧美剧", 
+      "韩国剧", 
+      "日本剧",
+      "大陆综艺",
+      "港台综艺",
+      "日韩综艺",
+      "欧美综艺",
+      "国产动漫",
+      "日韩动漫",
+      "欧美动漫",
+      "港台动漫",
+      "海外动漫",
+      "短剧", 
+      "剧情片", 
+      "动作片", 
+      "爱情片", 
+      "喜剧片"
+      ]
+    },
               {
       "key" : "Sir88",
       "name" : "体育┃直播",
@@ -687,6 +793,7 @@
         "type" : "list"
       }
       },
+
         {
       "key": "沙雕哔哩",
       "name": "🅱️合集┃哔哩",
@@ -935,7 +1042,8 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
-        }   ],
+        }
+    ],
   "doh": [
     {
       "name": "Google",
