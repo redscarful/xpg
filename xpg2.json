@@ -545,13 +545,7 @@
             "changeable": 0,
             "ext": "./6.txt"
         },
-{
-      "key" : "毒舌影视",
-      "name" : "毒舌┃App",
-      "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
-      "api" : "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/毒舌影视.js"
-    },
+
     {
       "key" : "永乐",
       "name" : "永乐┃App",
@@ -629,14 +623,6 @@
       "quickSearch" : 1,
       "filterable" : 1,
       "ext" : "https://www.tangsan.fun/config.php?source=xifan"
-    },
-    {
-      "key" : "csp_duanju",
-      "name" : "盒马┃短剧",
-      "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
-      "timeout" : 12,
-      "api" : "csp_HeMa"
     },
     {
       "key" : "csp_XY",
