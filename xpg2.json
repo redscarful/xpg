@@ -182,6 +182,42 @@
       "api" : "csp_AppXY",
       "ext" : ""
     },
+              {
+      "key" : "Wexduanjuvop",
+      "name" : "短剧┃秒播",
+      "type" : 3,
+      "api" : "csp_WexduanjuvopGuard",
+       "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",
+      "searchable" : 1,
+      "changeable" : 1
+    },
+    {
+      "key" : "Wexduanjuvmp",
+      "name" : "短剧┃瞬播",
+      "type" : 3,
+      "api" : "csp_WexduanjuvmpGuard",
+     "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",         
+      "searchable" : 1,
+      "changeable" : 1
+    },
+    {
+      "key" : "Wexduanjuhema",
+      "name" : "短剧┃仙品",
+      "type" : 3,
+      "api" : "csp_WexduanjuhemaGuard",
+       "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",       
+      "searchable" : 1,
+      "changeable" : 1
+    },
+    {
+      "key" : "Wexduanju001",
+      "name" : "短剧┃神品",
+      "type" : 3,
+      "api" : "csp_Wexduanju001Guard",
+       "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",       
+      "searchable" : 1,
+      "changeable" : 1
+    },
     {
       "key" : "csp_Jpys",
       "name" : "金牌┃高清",
@@ -192,6 +228,15 @@
       "quickSearch" : 0,
       "api" : "csp_Jpys",
       "ext" : "https://y2s52n7.com"
+    },
+       {
+      "key" : "新6V",
+      "name" : "新6V┃P2P",
+      "type" : 3,
+      "api" : "csp_WexXb6vGuard",
+      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",
+      "searchable" : 1,
+      "changeable" : 0
     },
     {
       "key" : "柠檬",
@@ -290,6 +335,24 @@
       ]
     },
               {
+      "key" : "WexNewHuYa",
+      "name" : "虎牙┃直播",
+      "type" : 3,
+      "api" : "csp_WexNewHuYaGuard",
+      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",                  
+      "searchable" : 1,
+      "changeable" : 1
+    },
+    {
+      "key" : "WexNewDouYu",
+      "name" : "斗鱼┃直播",
+      "type" : 3,
+      "api" : "csp_WexNewDouYuGuard",
+      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",        
+      "searchable" : 1,
+      "changeable" : 1
+    },
+              {
       "key" : "Sir88",
       "name" : "体育┃直播",
       "type" : 3,
@@ -302,6 +365,76 @@
         "type" : "list"
       }
       },
+              {
+      "key" : "Wex275tingshu",
+      "name" : "极品┃听书",
+      "type" : 3,
+      "api" : "csp_Wex275tingshuGuard",
+      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",                  
+      "searchable" : 1,
+      "changeable" : 1
+    },
+      {
+      "key" : "Wextangdou",
+      "name" : "广场舞┃教学",
+      "type" : 3,
+      "api" : "csp_WextangdouGuard",
+      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",         
+      "searchable" : 1,
+      "changeable" : 0,
+      "style" : {
+        "type" : "rect",
+        "ratio" : 2
+      }
+    },
+              {
+      "key" : "Wexergeduoduo",
+      "name" : "多多┃儿歌",
+      "type" : 3,
+      "api" : "csp_WexergeduoduoGuard",
+      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",                  
+      "searchable" : 1,
+      "changeable" : 0,
+      "style" : {
+        "type" : "rect",
+        "ratio" : 2
+      }
+    },
+    {
+      "key" : "Wexbaobaobashi",
+      "name" : "宝宝┃儿歌",
+      "type" : 3,
+      "api" : "csp_WexbaobaobashiGuard",
+      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",        
+      "searchable" : 1,
+      "changeable" : 0,
+      "style" : {
+        "type" : "rect",
+        "ratio" : 2
+      }
+    },
+    {
+      "key" : "Wexbeiwa",
+      "name" : "贝贝┃儿歌",
+      "type" : 3,
+      "api" : "csp_WexbeiwaGuard",
+      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",        
+      "searchable" : 1,
+      "changeable" : 0,
+      "style" : {
+        "type" : "rect",
+        "ratio" : 2
+      }
+    },
+              {
+      "key" : "Iktv",
+      "name" : "🎤KTV┃音乐🎤",
+      "type" : 3,
+      "api" : "csp_WexIktvGuard",
+      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",                  
+      "searchable" : 1,
+      "changeable" : 0
+    },
 
         {
       "key": "沙雕哔哩",
