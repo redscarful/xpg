@@ -73,7 +73,7 @@
 {
         "name": "橘汁",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/juzhi.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/juzhi.jpg",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/juzhi.png",
         "version": "影视追剧"
       },
 {
