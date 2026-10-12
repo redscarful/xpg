@@ -14,15 +14,66 @@
       },
 {
         "name": "小草助手",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaocao_8.6",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaocao_8.6.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/yecao.png",
-        "version": "8.6.3"
+        "version": "版本 8.6.3"
+      },
+
+{
+        "name": "小草红果",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaocaohongguo.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/hongguo.png",
+        "version": "红果短剧"
       },
 {
-        "name": "二狗助手",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/ergou.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/ig.png",
+        "name": "小草音乐",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaocaoyinyue.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/xiaocaoynyue.png",
+        "version": "听歌大全"
+      },
+
+{
+        "name": "狗狗助手",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/gougou.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/gougou.png",
         "version": "应用大全"
+      },
+
+{
+        "name": "皮皮狗",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/pipigou.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/pipigou.png",
+        "version": "影视追剧"
+      },
+{
+        "name": "耐看直播",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/naikan.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/naikan.png",
+        "version": "央卫直播"
+      },
+{
+        "name": "好看球",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/haokanqiu.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/haokanqiu.png",
+        "version": "球赛大全"
+      },
+{
+        "name": "星海直播",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xinghai.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/xinghai.png",
+        "version": "央卫直播"
+      },
+{
+        "name": "网页电视",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/wangye.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/wangye.png",
+        "version": "央卫直播"
+      },
+{
+        "name": "橘汁",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/juzhi.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/juzhi.jpg",
+        "version": "支持语音"
       },
 {
         "name": "欢视助手",
@@ -36,12 +87,7 @@
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2055482234538369024.jpg",
         "version": "支持语音"
       },
-{
-        "name": "小苹果TV",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xpgtv.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2056249290988797952.jpg",
-        "version": "内置40条线路"
-      },
+
 {
         "name": "千寻直播",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/qianxun.apk",
@@ -60,48 +106,21 @@
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1863157714193592320.jpg",
         "version": "儿童学习"
       },
-{
-        "name": "小苹果音乐TV版",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/music.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061648416357756928.jpg",
-        "version": "TV听歌"
-      },
+
 {
         "name": "小白浏览器",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaobai.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1879549331154513920.jpg",
         "version": "软件管家"
       },
-{
-        "name": "小红帽管家",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaohongmao.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2032055165548859392.jpg",
-        "version": "软件管家"
-      },
+
 {
         "name": "看客",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/kanke.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2060665888508002304.jpg",
         "version": "影视点播"
       },
-{
-        "name": "星海体育",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xinghai.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061264286458056704.jpg",
-        "version": "足球篮球"
-      },
-{
-        "name": "大强影视",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/daqiang.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061308927965933568.jpg",
-        "version": "软件管家"
-      },
-{
-        "name": "艺华直播",
-        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/yihua.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2047121710360080384.jpg",
-        "version": "软件管家"
-      },
+
 
 {
         "name": "当贝市场",
