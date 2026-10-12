@@ -29,7 +29,7 @@
 {
         "name": "小草音乐",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaocaoyinyue.apk",
-        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/xiaocaoynyue.png",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/xiaocaoyinyue.png",
         "version": "听歌大全"
       },
 
