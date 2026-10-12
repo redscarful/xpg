@@ -229,15 +229,7 @@
       "api" : "csp_Jpys",
       "ext" : "https://y2s52n7.com"
     },
-       {
-      "key" : "新6V",
-      "name" : "新6V┃P2P",
-      "type" : 3,
-      "api" : "csp_WexXb6vGuard",
-      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",
-      "searchable" : 1,
-      "changeable" : 0
-    },
+
     {
       "key" : "柠檬",
       "name" : "柠檬┃App",
@@ -428,7 +420,7 @@
     },
               {
       "key" : "Iktv",
-      "name" : "🎤KTV┃音乐🎤",
+      "name" : "KTV┃音乐",
       "type" : 3,
       "api" : "csp_WexIktvGuard",
       "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",                  
