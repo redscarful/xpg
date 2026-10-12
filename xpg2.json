@@ -164,7 +164,7 @@
     },
               {
       "key" : "WexHanXiaoQuan",
-      "name" : "韩剧┃秒播",
+      "name" : "韩剧┃App",
       "type" : 3,
       "api" : "csp_WexAiHanXiaoQuanGuard",
       "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",                  
@@ -174,7 +174,7 @@
     },
               {
       "key" : "WexFengYe4K",
-      "name" : "小枫┃秒播",
+      "name" : "小枫┃App",
       "type" : 3,
       "api" : "csp_WexFengYe4KGuard",
       "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",                  
@@ -193,7 +193,7 @@
     },
               {
       "key" : "AppV7 | 大师兄",
-      "name" : "师兄┃秒播",
+      "name" : "师兄┃App",
       "type" : 3,
       "api" : "csp_WexAppV7Guard",
       "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",                  
@@ -207,7 +207,7 @@
     },
               {
       "key" : "AppV7 | 粉猪追剧",
-      "name" : "粉猪┃秒播",
+      "name" : "粉猪┃App",
       "type" : 3,
       "api" : "csp_WexAppV7Guard",
        "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",                 
@@ -221,7 +221,7 @@
     },
               {
       "key" : "AppV7 | 蒙太奇",
-      "name" : "太奇┃秒播",
+      "name" : "太奇┃App",
       "type" : 3,
       "api" : "csp_WexAppV7Guard",
       "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",                  
@@ -233,6 +233,20 @@
       },
       "timeout" : 120
     },
+              {
+      "key" : "AppV7 | 零零七影视",
+      "name" : "零七┃App",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+      "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",         
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Llq",
+        "proxyImg" : false
+      },
+      "timeout" : 120
+    }, 
 
     {
       "key" : "csp_XY",
@@ -244,20 +258,7 @@
       "api" : "csp_AppXY",
       "ext" : ""
     },
-     {
-      "key" : "AppV7 | 零零七影视",
-      "name" : "零七┃秒播",
-      "type" : 3,
-      "api" : "csp_WexAppV7Guard",
-      "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",         
-      "searchable" : 1,
-      "changeable" : 0,
-      "ext" : {
-        "config" : "AppV7Llq",
-        "proxyImg" : false
-      },
-      "timeout" : 120
-    },         
+             
               {
       "key" : "Wexduanjuvop",
       "name" : "短剧┃秒播",
