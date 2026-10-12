@@ -162,6 +162,26 @@
       "filterable" : 1,
       "ext" : ""
     },
+              {
+      "key" : "WexHanXiaoQuan",
+      "name" : "韩剧┃秒播",
+      "type" : 3,
+      "api" : "csp_WexAiHanXiaoQuanGuard",
+      "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",                  
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "changeable" : 0
+    },
+              {
+      "key" : "WexFengYe4K",
+      "name" : "小枫┃秒播",
+      "type" : 3,
+      "api" : "csp_WexFengYe4KGuard",
+      "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",                  
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "changeable" : 0
+    },
     {
       "key" : "csp_Gz360",
       "name" : "瓜子┃App",
@@ -170,6 +190,48 @@
       "searchable" : 1,
       "quickSearch" : 0,
       "api" : "csp_Gz360"
+    },
+              {
+      "key" : "AppV7 | 大师兄",
+      "name" : "师兄┃秒播",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+      "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",                  
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Dsx",
+        "proxyImg" : false
+      },
+      "timeout" : 120
+    },
+              {
+      "key" : "AppV7 | 粉猪追剧",
+      "name" : "粉猪┃秒播",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+       "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",                 
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Fz",
+        "proxyImg" : false
+      },
+      "timeout" : 120
+    },
+              {
+      "key" : "AppV7 | 蒙太奇",
+      "name" : "太奇┃秒播",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+      "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",                  
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Mtq",
+        "proxyImg" : false
+      },
+      "timeout" : 120
     },
 
     {
@@ -182,6 +244,20 @@
       "api" : "csp_AppXY",
       "ext" : ""
     },
+     {
+      "key" : "AppV7 | 零零七影视",
+      "name" : "零七┃秒播",
+      "type" : 3,
+      "api" : "csp_WexAppV7Guard",
+      "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",         
+      "searchable" : 1,
+      "changeable" : 0,
+      "ext" : {
+        "config" : "AppV7Llq",
+        "proxyImg" : false
+      },
+      "timeout" : 120
+    },         
               {
       "key" : "Wexduanjuvop",
       "name" : "短剧┃秒播",
@@ -417,6 +493,24 @@
         "type" : "rect",
         "ratio" : 2
       }
+    },
+              {
+      "key" : "MusicAiQingTing",
+      "name" : "蜻蜓┃电台",
+      "type" : 3,
+      "api" : "csp_MusicAiQingTingGuard",
+      "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",                  
+      "searchable" : 1,
+      "changeable" : 0
+    },
+              {
+      "key" : "MusicAiKuWoa",
+      "name" : "小酷┃音乐",
+      "type" : 3,
+      "api" : "csp_MusicAiKuWoaGuard",
+      "jar" : "http://oss4liview.moji.com/thd_file/2026/10/10/9a35119b3c4b4ba86345e3ab35b017a0.jpg;md5;09c3693dd068fd9b586f45d7d9c71916",                  
+      "searchable" : 1,
+      "changeable" : 0
     },
               {
       "key" : "Iktv",
