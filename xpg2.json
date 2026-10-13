@@ -297,7 +297,7 @@
       "name" : "虎牙┃直播",
       "type" : 3,
       "api" : "csp_WexNewHuYaGuard",
-      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",                  
+      "jar":"https://lz.qaiu.top/parser?url=https://xiaocao1.lanzouu.com/iNPiy4bsz9mf",                  
       "searchable" : 1,
       "changeable" : 1
     },
@@ -306,7 +306,7 @@
       "name" : "斗鱼┃直播",
       "type" : 3,
       "api" : "csp_WexNewDouYuGuard",
-      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",        
+      "jar":"https://lz.qaiu.top/parser?url=https://xiaocao1.lanzouu.com/iNPiy4bsz9mf",        
       "searchable" : 1,
       "changeable" : 1
     },
@@ -328,7 +328,7 @@
       "name" : "极品┃听书",
       "type" : 3,
       "api" : "csp_Wex275tingshuGuard",
-      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",                  
+      "jar":"https://lz.qaiu.top/parser?url=https://xiaocao1.lanzouu.com/iNPiy4bsz9mf",                  
       "searchable" : 1,
       "changeable" : 1
     },
@@ -337,12 +337,12 @@
       "name" : "广场舞┃教学",
       "type" : 3,
       "api" : "csp_WextangdouGuard",
-      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",         
+      "jar":"https://lz.qaiu.top/parser?url=https://xiaocao1.lanzouu.com/iNPiy4bsz9mf",         
       "searchable" : 1,
-      "changeable" : 1,
+      "changeable" : 0,
       "style" : {
         "type" : "rect",
-        "ratio" : 1.597
+        "ratio" : 2
       }
     },
               {
@@ -350,12 +350,12 @@
       "name" : "多多┃儿歌",
       "type" : 3,
       "api" : "csp_WexergeduoduoGuard",
-      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",                  
+      "jar":"https://lz.qaiu.top/parser?url=https://xiaocao1.lanzouu.com/iNPiy4bsz9mf",                  
       "searchable" : 1,
-      "changeable" : 1,
+      "changeable" : 0,
       "style" : {
         "type" : "rect",
-        "ratio" : 1.597
+        "ratio" : 2
       }
     },
     {
@@ -363,12 +363,12 @@
       "name" : "宝宝┃儿歌",
       "type" : 3,
       "api" : "csp_WexbaobaobashiGuard",
-      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",        
+      "jar" :"https://lz.qaiu.top/parser?url=https://xiaocao1.lanzouu.com/iNPiy4bsz9mf",        
       "searchable" : 1,
-      "changeable" : 1,
+      "changeable" : 0,
       "style" : {
         "type" : "rect",
-        "ratio" : 1.597
+        "ratio" : 2
       }
     },
     {
@@ -376,9 +376,9 @@
       "name" : "贝贝┃儿歌",
       "type" : 3,
       "api" : "csp_WexbeiwaGuard",
-      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",        
+      "jar":"https://lz.qaiu.top/parser?url=https://xiaocao1.lanzouu.com/iNPiy4bsz9mf",        
       "searchable" : 1,
-      "changeable" : 1,
+      "changeable" : 0,
       "style" : {
         "type" : "rect",
         "ratio" : 1.597
@@ -389,9 +389,9 @@
       "name" : "KTV┃音乐",
       "type" : 3,
       "api" : "csp_WexIktvGuard",
-      "jar":"http://oss4liview.moji.com/thd_file/2026/10/05/4ef0c536f599d55d11bc5815ab160a2f.jpg;md5;c3bb107baf51fc8f90daf950c539727f",                  
+      "jar":"https://lz.qaiu.top/parser?url=https://xiaocao1.lanzouu.com/iNPiy4bsz9mf",                  
       "searchable" : 1,
-      "changeable" : 1
+      "changeable" : 0
     },
 
         {
