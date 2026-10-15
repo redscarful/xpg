@@ -24,7 +24,7 @@
         "name": "小草红果",
         "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaocaohongguo.apk",
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/hongguo.png",
-        "version": "红果短剧"
+        "version": "11.1弹幕版"
       },
 {
         "name": "小草音乐",
