@@ -131,17 +131,7 @@
             "changeable": 0,
             "ext": "./6.txt"
         },
-               {
-      "key": "枫叶影视",
-      "name": "枫叶┃4K",
-      "type": 3,
-      "api": "csp_FengYe",
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.vip1949.com/"
-    },
+
 
     {
       "key" : "独播库",
