@@ -118,7 +118,7 @@
        
        {
             "key": "豆瓣2",
-            "name": "豆瓣┃推荐👉最新NewTv影视追剧、港澳日韩直播 K歌四合一，小草口令CCCC 11AA ",
+            "name": "豆瓣┃推荐",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -323,16 +323,7 @@
       "changeable" : 1
     },
               
-    {
-      "key": "咕咕动漫",
-      "name": "咕咕┃动漫",
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": "https://www.gugu3.com|nKfZ8KX6JTNWRzTD|V119|okhttp/3.10"
-    },
-               {
+        {
       "key": "酷酷",
       "name": "酷酷┃音乐",
       "type": 3,
