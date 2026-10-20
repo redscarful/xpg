@@ -19,6 +19,12 @@
         "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/yecao.png",
         "version": "版本 8.6.3"
       },
+{
+        "name": "草果短剧",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/caoguo.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/caoguo.png",
+        "version": "安卓4"
+      },
 
 {
         "name": "小草红果",
