@@ -1,5 +1,5 @@
 {
-"spider": "https://lz.qaiu.top/parser?url=https://xiaocao1.lanzouu.com/ijObt4d5pbcb",
+"spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
 "wallpaper" : "https://t.alcy.cc/fj",
 "marquee": "5pu05aSa5aW955So6L2v5Lu25bC95Zyo5bCP6I2J5Y+j5LukQ0NDQyAxMUFB",   
 "lives": [
@@ -137,14 +137,14 @@
     "key": "独播库",
     "name": "播库┃App",
     "type": 3,
-    "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
+    "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/og260903.jar",
     "api": "csp_Duboku"
 },
     {
       "key" : "移动",
       "name" : "️移动App",
       "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/is9fv46gfwaj&pwd=1by4",
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/og260903.jar",
       "api" : "csp_Yidong4K",
       "searchable" : 1,
       "quickSearch" : 1,
@@ -156,7 +156,7 @@
       "key" : "Osstexll",
       "name" : "八戒┃App",
       "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
       "api" : "csp_Tounimabi",
       "searchable" : 1,
       "quickSearch" : 1,
@@ -168,7 +168,7 @@
       "key" : "csp_Gz360",
       "name" : "瓜子┃App",
       "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
       "searchable" : 1,
       "quickSearch" : 0,
       "api" : "csp_Gz360"
@@ -178,7 +178,7 @@
       "key" : "csp_XY",
       "name" : "星芽┃短剧",
       "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
       "searchable" : 1,
       "timeout" : 12,
       "api" : "csp_AppXY",
@@ -189,7 +189,7 @@
       "key" : "csp_Jpys",
       "name" : "金牌┃高清",
       "type" : 3,
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
       "timeout" : 12,
       "searchable" : 1,
       "quickSearch" : 0,
@@ -299,7 +299,7 @@
       "name": "瓜子┃体育",
       "type": 3,
       "api": "csp_GuaziTY",
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -311,23 +311,13 @@
       "order_num": 0,
       "changeable": 0
     },
-    
-              {
-      "key" : "Wex275tingshu",
-      "name" : "极品┃听书",
-      "type" : 3,
-      "api" : "csp_Wex275tingshuGuard",
-      "jar":"https://lz.qaiu.top/parser?url=https://xiaocao1.lanzouu.com/iNPiy4bsz9mf",                  
-      "searchable" : 1,
-      "changeable" : 1
-    },
-              
+          
         {
       "key": "酷酷",
       "name": "酷酷┃音乐",
       "type": 3,
       "api": "csp_KuKuMusic",
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -342,7 +332,7 @@
       "name": "虎牙斗鱼┃直播",
       "type": 3,
       "api": "csp_YXZB",
-      "jar" : "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
       "searchable": 0,
       "quickSearch": 0,
       "style": {
