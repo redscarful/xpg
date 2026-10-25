@@ -133,24 +133,6 @@
             "ext": "./tbss.txt"
         },
 
-{
-    "key": "独播库",
-    "name": "播库┃App",
-    "type": 3,
-    "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/og260903.jar",
-    "api": "csp_Duboku"
-},
-    {
-      "key" : "移动",
-      "name" : "️移动App",
-      "type" : 3,
-      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/og260903.jar",
-      "api" : "csp_Yidong4K",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 1,
-      "timeout" : 60
-    },
 
     {
       "key" : "Osstexll",
