@@ -1,6 +1,7 @@
 {
-"spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
-"wallpaper" : "https://t.alcy.cc/fj",
+"spider": "https://qiniu.gongxueyun.com/upload/1842218/2026-10-26/report/813941973_2_1793036976174.jar;md5;f61cb13d06f58ea56ce915009bbd1502",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
 "marquee": "5pu05aSa5aW955So6L2v5Lu25bC95Zyo5bCP6I2J5Y+j5LukQ0NDQyAxMUFB",   
 "lives": [
           {
@@ -115,98 +116,142 @@
     }
     ],
     "sites": [
-       
        {
-            "key": "豆瓣2",
-            "name": "豆瓣┃推荐",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
+      "key": "Douban",
+      "name": "豆瓣┃推荐",
+      "type": 3,
+      "api": "csp_PianDan",
+      "searchable": 1,
+      "indexs": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "home": {
+          "douban": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/r68R/douban.json",
+          "tmdb": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/yAKC/tmdb.json"
+        }
+      }
+    },
         {
             "key": "应用商店",
             "name": "软件大全下载",
             "type": 3,
             "api": "csp_Market",
+            "jar" : "./spider.jar",      
             "searchable": 0,
             "changeable": 0,
             "ext": "./6.txt"
         },
+                {
+      "key": "Local",
+      "name": "文件┃浏览",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/VbeD/share.json"
+    },
+              {
+      "key": "ALLLive",
+      "name": "短视频┃APP",
+      "type": 3,
+      "api": "csp_ALLLive",
+      "searchable": 1
+    },
+              {
+      "key": "bili",
+      "name": "哔哩┃APP",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "cookie": ""
+      }
+    },
+              {
+      "key": "LaiChuang",
+      "name": "赖床┃APP",
+      "type": 3,
+      "api": "csp_LaiChuang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AVlJ4J+D/3DMzdKAQnig/9ckDSQU7H+PyPyOE/q+m7eGkaZ9YjDkVXgq17TjYCHuvJa0UinsvgwPiAVd51fKuA0="
+    },
+               {
+      "key": "长泽",
+      "name": "长泽┃APP",
+      "type": 3,
+      "api": "csp_App88",
+      "ext": "AbUqYzi9KxmcqEBrph2PStNUDPxq/XlzxDHJ/Ho29gXr8NgMOEJGFKBsrdYb5xNb+w+Xaj3203DI9YWo5wBv6zGULMNZneW1yESyfC1/S1BM"
+    },
+               {
+      "key": "fishhxq",
+      "name": "韩小圈┃APP",
+      "type": 3,
+      "api": "csp_FishHxq",
+      "searchable": 1,
+      "ext": "AfEuiKVYhFJoZfX14qKZ6B/GuVuuG1J+2u0TrTgQMlT+T6fw+zkIdP0NTr6BT3Oa5aQs8EIbxPwjpG7UH/U75WM="
+    },
+              {
+      "key": "Rebo",
+      "name": "热播┃APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
 
-    {
-      "key" : "Osstexll",
-      "name" : "八戒┃App",
-      "type" : 3,
-      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
-      "api" : "csp_Tounimabi",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 1,
-      "ext" : ""
-    },
-            
-    {
-      "key" : "csp_Gz360",
-      "name" : "瓜子┃App",
-      "type" : 3,
-      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
-      "searchable" : 1,
-      "quickSearch" : 0,
-      "api" : "csp_Gz360"
-    },
-         
-    {
-      "key" : "csp_XY",
-      "name" : "星芽┃短剧",
-      "type" : 3,
-      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
-      "searchable" : 1,
-      "timeout" : 12,
-      "api" : "csp_AppXY",
-      "ext" : ""
-    },
-
-    {
-      "key" : "csp_Jpys",
-      "name" : "金牌┃高清",
-      "type" : 3,
-      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
-      "timeout" : 12,
-      "searchable" : 1,
-      "quickSearch" : 0,
-      "api" : "csp_Jpys",
-      "ext" : "https://y2s52n7.com"
-    },
-
-    {
-      "key" : "柠檬",
-      "name" : "柠檬┃App",
-      "type" : 3,
-      "api" : "csp_Nmvod",
-      "playerType" : 2,
-      "jar" : "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext" : "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
 
          {
             "key": "农民App",
             "name": "农民┃App",
             "type": 3,
             "api": "csp_Wwys",
+                   "jar" : "./spider.jar",
             "ext": "https://vip.wwgz.cn:5200"
         },
-    {
-            "key": "热播App",
-            "name": "热播┃App",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },
+
+              {
+      "key": "马猴影视",
+      "name": "大马猴┃APP",
+      "type": 3,
+      "api": "csp_App3Q",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "Aalts9S0kZVe1LnLnDkMQZgi4p/BQkgyXW3CiozzZwpXllkvgFr5ojgmcjYPyW+qWPP9aDwMqWoI7WYz/y7OXcc="
+    },
+      {
+      "key": "SaoHuo",
+      "name": "骚火┃APP",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://shdy5.us"
+    },
+              {
+      "key": "DJHub",
+      "name": "短剧┃APP",
+      "type": 3,
+      "api": "csp_DJHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "genre": "shortdrama",
+      "filterable": 1,
+      "changeable": 1
+    },
 
     {
       "key": "量子资源",
@@ -241,69 +286,47 @@
       "伦理片"
       ]
     },
-    
-{
-    "key": "独播库",
-    "name": "播库┃App",
-    "type": 3,
-    "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/og260903.jar",
-    "api": "csp_Duboku"
-},
     {
-      "key" : "移动",
-      "name" : "️移动App",
-      "type" : 3,
-      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/og260903.jar",
-      "api" : "csp_Yidong4K",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 1,
-      "timeout" : 60
-    },
-      {
-      "key": "瓜子",
-      "name": "瓜子┃体育",
+      "key": "aiting",
+      "name": "爱听┃APP",
       "type": 3,
-      "api": "csp_GuaziTY",
-      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "timeout": 12,
-      "order_num": 0,
-      "changeable": 0
-    },
-          
-        {
-      "key": "酷酷",
-      "name": "酷酷┃音乐",
-      "type": 3,
-      "api": "csp_KuKuMusic",
-      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
+      "api": "csp_AiTingMusic",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "oval",
-        "ratio": 1
-      }
+      "filterable": 0
     },
-    {
-      "key": "Live",
-      "name": "虎牙斗鱼┃直播",
+              {
+      "key": "BeiLeHu",
+      "name": "小虎┃少儿",
       "type": 3,
-      "api": "csp_YXZB",
-      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
+      "api": "csp_BeiLeHu",
       "searchable": 0,
       "quickSearch": 0,
+      "filterable": 0
+    },
+              {
+      "key": "Kanqiu",
+      "name": "看球┃体育",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 0,
+      "filterable": 1,
+      "indexs": 0,
+      "ext": "http://www.88kanqiu.one",
       "style": {
-        "type": "rect",
-        "ratio": 3.8
+        "type": "list"
+      }
+    },
+              {
+      "key": "Sir88",
+      "name": "超全┃体育",
+      "type": 3,
+      "api": "csp_Sir88",
+      "searchable": 0,
+      "filterable": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
       }
     },
 
@@ -529,7 +552,7 @@
             "name": "呦呦｜DJ",
             "type": 3,
             "api": "csp_Djuu",
-                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
+            "jar" : "./spider.jar",
             "style": {
                 "type": "list"
             }
@@ -539,7 +562,7 @@
             "name": "🌸戏曲｜多多",
             "type": 3,
             "api": "csp_AppLY",
-                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
+            "jar" : "./spider.jar",
             "style": {
                 "type": "list"
             }
@@ -551,7 +574,7 @@
             "name": "请勿相信视频中广告",
             "type": 3,
             "api": "csp_XPath",
-                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
+            "jar" : "./spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
