@@ -1,5 +1,6 @@
 {
-"spider": "http://oss4liview.moji.com/thd_file/2026/11/03/b1838e86a7164d1031cb5940af34ad7c.jpg;md5;a1dadb8ef5197d9ee9c8fde926aae2e2",
+"spider": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
+"wallpaper" : "https://t.alcy.cc/fj",
 "marquee": "5pu05aSa5aW955So6L2v5Lu25bC95Zyo5bCP6I2J5Y+j5LukQ0NDQyAxMUFB",   
 "lives": [
           {
@@ -114,49 +115,99 @@
     }
     ],
     "sites": [
-      {
-            "key": "Douban",
+       
+       {
+            "key": "豆瓣2",
             "name": "豆瓣┃推荐",
             "type": 3,
-            "api": "csp_NewDouBanGuard",
-            "indexs": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
-      },
+            "api": "csp_Douban",
+            "searchable": 0
+        },
         {
             "key": "应用商店",
             "name": "软件大全下载",
             "type": 3,
             "api": "csp_Market",
-            "jar" : "./spider.jar",      
             "searchable": 0,
             "changeable": 0,
             "ext": "./6.txt"
         },
-             {
-            "key": "Wexconfig",
-            "name": "配置┃中心",
-            "type": 3,
-            "api": "csp_PanConfigGuard",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            }
-        },
+
+
+    {
+      "key" : "Osstexll",
+      "name" : "八戒┃App",
+      "type" : 3,
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
+      "api" : "csp_Tounimabi",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "ext" : ""
+    },
+            
+    {
+      "key" : "csp_Gz360",
+      "name" : "瓜子┃App",
+      "type" : 3,
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
+      "searchable" : 1,
+      "quickSearch" : 0,
+      "api" : "csp_Gz360"
+    },
+         
+    {
+      "key" : "csp_XY",
+      "name" : "星芽┃短剧",
+      "type" : 3,
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
+      "searchable" : 1,
+      "timeout" : 12,
+      "api" : "csp_AppXY",
+      "ext" : ""
+    },
+
+    {
+      "key" : "csp_Jpys",
+      "name" : "金牌┃高清",
+      "type" : 3,
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
+      "timeout" : 12,
+      "searchable" : 1,
+      "quickSearch" : 0,
+      "api" : "csp_Jpys",
+      "ext" : "https://y2s52n7.com"
+    },
+
+    {
+      "key" : "柠檬",
+      "name" : "柠檬┃App",
+      "type" : 3,
+      "api" : "csp_Nmvod",
+      "playerType" : 2,
+      "jar" : "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext" : "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
 
          {
             "key": "农民App",
             "name": "农民┃App",
             "type": 3,
             "api": "csp_Wwys",
-                   "jar" : "./spider.jar",
             "ext": "https://vip.wwgz.cn:5200"
         },
-
+    {
+            "key": "热播App",
+            "name": "热播┃App",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
 
     {
       "key": "量子资源",
@@ -191,519 +242,72 @@
       "伦理片"
       ]
     },
+    
+{
+    "key": "独播库",
+    "name": "播库┃App",
+    "type": 3,
+    "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/og260903.jar",
+    "api": "csp_Duboku"
+},
+    {
+      "key" : "移动",
+      "name" : "️移动App",
+      "type" : 3,
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/og260903.jar",
+      "api" : "csp_Yidong4K",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "timeout" : 60
+    },
       {
-            "key": "WexHanXiaoQuan",
-            "name": "韩剧┃APP",
-            "type": 3,
-            "api": "csp_WexAiHanXiaoQuanGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "WexAiGuaZi",
-            "name": "瓜子┃APP",
-            "type": 3,
-            "api": "csp_WexAiGuaZiGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "WexAiDuBoKu",
-            "name": "独播┃APP",
-            "type": 3,
-            "api": "csp_WexAiDuBoKuGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "WexAiYueYue",
-            "name": "闪电┃APP",
-            "type": 3,
-            "api": "csp_WexAiYueYueGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "WexAiWenCai",
-            "name": "文才┃APP",
-            "type": 3,
-            "api": "csp_WexAiWenCaiGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "WexFengYe4K",
-            "name": "小枫┃APP",
-            "type": 3,
-            "api": "csp_WexFengYe4KGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "賤賤",
-            "name": "贱片┃APP",
-            "type": 3,
-            "api": "csp_WexAiJianPianGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "AppV7 | 大师兄",
-            "name": "师兄┃APP",
-            "type": 3,
-            "api": "csp_WexAppV7Guard",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "config": "AppV7Dsx",
-                "proxyImg": false
-            },
-            "timeout": 120
-        }, {
-            "key": "AppV7 | 粉猪追剧",
-            "name": "粉猪┃APP",
-            "type": 3,
-            "api": "csp_WexAppV7Guard",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "config": "AppV7Fz",
-                "proxyImg": false
-            },
-            "timeout": 120
-        }, {
-            "key": "AppV7 | 咸鱼",
-            "name": "咸鱼┃APP",
-            "type": 3,
-            "api": "csp_WexAppV7Guard",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "config": "AppV7Xy",
-                "proxyImg": false
-            },
-            "timeout": 120
-        }, {
-            "key": "AppV7 | 追剧达人",
-            "name": "追剧┃APP",
-            "type": 3,
-            "api": "csp_WexAppV7Guard",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "config": "AppV7Zjdr",
-                "proxyImg": false
-            },
-            "timeout": 120
-        }, {
-            "key": "AppV7 | 小柚子",
-            "name": "柚子┃APP",
-            "type": 3,
-            "api": "csp_WexAppV7Guard",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "config": "AppV7Xyz",
-                "proxyImg": false
-            },
-            "timeout": 120
-        }, {
-            "key": "AppV7 | 小柠檬",
-            "name": "柠檬┃APP",
-            "type": 3,
-            "api": "csp_WexAppV7Guard",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "config": "AppV7Xnm",
-                "proxyImg": false
-            },
-            "timeout": 120
-        }, {
-            "key": "AppV7 | 蒙太奇",
-            "name": "太奇┃APP",
-            "type": 3,
-            "api": "csp_WexAppV7Guard",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "config": "AppV7Mtq",
-                "proxyImg": false
-            },
-            "timeout": 120
-        }, {
-            "key": "AppV7 | 零零七影视",
-            "name": "零七┃APP",
-            "type": 3,
-            "api": "csp_WexAppV7Guard",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "config": "AppV7Llq",
-                "proxyImg": false
-            },
-            "timeout": 120
-        }, {
-            "key": "AppV7 | 小柿子",
-            "name": "柿子┃APP",
-            "type": 3,
-            "api": "csp_WexAppV7Guard",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "config": "AppV7Xsz",
-                "proxyImg": false
-            },
-            "timeout": 120
-        }, {
-            "key": "AppV7 | 小黄人",
-            "name": "黄人┃APP",
-            "type": 3,
-            "api": "csp_WexAppV7Guard",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "config": "AppV7Xhr",
-                "proxyImg": false
-            },
-            "timeout": 120
-        }, {
-            "key": "WexAiYiYs",
-            "name": "伊影┃APP",
-            "type": 3,
-            "api": "csp_WexAiYiYsGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "WexAiReBo",
-            "name": "热播┃APP",
-            "type": 3,
-            "api": "csp_WexAiReBoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "WexAiBoBo",
-            "name": "伯伯┃APP",
-            "type": 3,
-            "api": "csp_WexAiBoBoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "WexAiIkanBot",
-            "name": "爱看┃采集",
-            "type": 3,
-            "api": "csp_WexAiIkanBotGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, {
-            "key": "LiveAiHuYa",
-            "name": "虎牙┃直播",
-            "type": 3,
-            "api": "csp_LiveAiHuYaGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "LiveAiDouYu",
-            "name": "斗鱼┃直播",
-            "type": 3,
-            "api": "csp_LiveAiDouYuGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "LiveAiBiLi",
-            "name": "哔哩┃直播",
-            "type": 3,
-            "api": "csp_LiveAiBiLiGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "ManJuAiHongGuo",
-            "name": "漫短┃小红",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiHongGuoGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "ManJuAiHuoLong",
-            "name": "漫剧┃小龙",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiHuoLongGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "ManJuAiQiMao",
-            "name": "漫剧┃小猫",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiQiMaoGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "ManJuAiXiFan",
-            "name": "漫短┃小喜",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiXiFanGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "ManJuAiHeMa",
-            "name": "漫短┃小马",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiHeMaGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "DuanJuAiHaoKan",
-            "name": "短剧┃好看",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_DuanJuAiHaoKanGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "DuanJuAiQiMiao",
-            "name": "短剧┃小猫",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_DuanJuAiQiMiaoGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "DuanJuAiXingYa",
-            "name": "短剧┃星星",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_DuanJuAiXingYaGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "DuanJuAiWeiGuan",
-            "name": "短剧┃小薇",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_DuanJuAiWeiGuanGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "AnimeXiFan",
-            "name": "稀饭┃动漫",
-            "type": 3,
-            "api": "csp_AnimeXiFanGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "AnimeCiYuanCheng",
-            "name": "次元┃动漫",
-            "type": 3,
-            "api": "csp_AnimeCiYuanChengGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "AnimeAiMoDu",
-            "name": "魔都┃动漫",
-            "type": 3,
-            "api": "csp_AnimeAiMoDuGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "BookHongGuo",
-            "name": "小红┃听书",
-            "type": 3,
-            "api": "csp_BookHongGuoGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "BookHeMa",
-            "name": "小马┃听书",
-            "type": 3,
-            "api": "csp_BookHeMaGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "BookAiShiJie",
-            "name": "极品┃听书",
-            "type": 3,
-            "api": "csp_BookAiShiJieGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "BookAiYueTing",
-            "name": "悦庭┃听书",
-            "type": 3,
-            "api": "csp_BookAiYueTingGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "timeout": 120
-        }, {
-            "key": "BookAi23TingShu",
-            "name": "爱上┃听书",
-            "type": 3,
-            "api": "csp_BookAi23TingShuGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "ChildrenAiBaoBao",
-            "name": "宝宝┃儿歌",
-            "type": 3,
-            "api": "csp_ChildrenAiBaoBaoGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        }, {
-            "key": "ChildrenAiBeiWa",
-            "name": "贝贝┃儿歌",
-            "type": 3,
-            "api": "csp_ChildrenAiBeiWaGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        }, {
-            "key": "ChildrenAiTuTu",
-            "name": "兔兔┃儿歌",
-            "type": 3,
-            "api": "csp_ChildrenAiTuTuGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        }, {
-            "key": "MusicAiTangDou",
-            "name": "跳舞┃教学",
-            "type": 3,
-            "api": "csp_MusicAiTangDouGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        }, {
-            "key": "MusicAiLiYuan",
-            "name": "戏曲┃APP",
-            "type": 3,
-            "api": "csp_MusicAiLiYuanGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        }, {
-            "key": "MusicAiQingTing",
-            "name": "蜻蜓┃电台",
-            "type": 3,
-            "api": "csp_MusicAiQingTingGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "MusicAiIKtv",
-            "name": "KTV┃音乐",
-            "type": 3,
-            "api": "csp_MusicAiIKtvGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "MusicAiKuWoa",
-            "name": "小酷┃音乐",
-            "type": 3,
-            "api": "csp_MusicAiKuWoaGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "MusicAi163",
-            "name": "易听┃音乐",
-            "type": 3,
-            "api": "csp_MusicAi163Guard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "MusicAiKuWo",
-            "name": "酷听┃音乐",
-            "type": 3,
-            "api": "csp_MusicAiKuWoGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "MusicAiLunHui",
-            "name": "轮回┃舞曲",
-            "type": 3,
-            "api": "csp_MusicAiLunHuiGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "SportAiFeiQiu",
-            "name": "飞球┃体育",
-            "type": 3,
-            "api": "csp_SportAiFeiQiuGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        }, {
-            "key": "SportAiGuaZi",
-            "name": "瓜子┃体育",
-            "type": 3,
-            "api": "csp_SportAiGuaZiGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        }, {
-            "key": "SportAiKanQiuTong",
-            "name": "球通┃体育",
-            "type": 3,
-            "api": "csp_SportAiKanQiuTongGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        }, {
-            "key": "SportAiKanqiu",
-            "name": "八八┃体育",
-            "type": 3,
-            "api": "csp_SportAiKanqiuGuard",
-            "searchable": 1,
-            "changeable": 0
-        }, {
-            "key": "SportAiKaFei",
-            "name": "咖啡┃体育",
-            "type": 3,
-            "api": "csp_SportAiKaFeiGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        }, {
-            "key": "SportAiWwe",
-            "name": "WWE┃体育",
-            "type": 3,
-            "api": "csp_SportAiWweGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        }, 
+      "key": "瓜子",
+      "name": "瓜子┃体育",
+      "type": 3,
+      "api": "csp_GuaziTY",
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "timeout": 12,
+      "order_num": 0,
+      "changeable": 0
+    },
+          
+        {
+      "key": "酷酷",
+      "name": "酷酷┃音乐",
+      "type": 3,
+      "api": "csp_KuKuMusic",
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "oval",
+        "ratio": 1
+      }
+    },
+    {
+      "key": "Live",
+      "name": "虎牙斗鱼┃直播",
+      "type": 3,
+      "api": "csp_YXZB",
+      "jar" : "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/mi2608081.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+
         {
       "key": "沙雕哔哩",
       "name": "🅱️合集┃哔哩",
@@ -926,7 +530,7 @@
             "name": "呦呦｜DJ",
             "type": 3,
             "api": "csp_Djuu",
-            "jar" : "./spider.jar",
+                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "style": {
                 "type": "list"
             }
@@ -936,18 +540,19 @@
             "name": "🌸戏曲｜多多",
             "type": 3,
             "api": "csp_AppLY",
-            "jar" : "./spider.jar",
+                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "style": {
                 "type": "list"
             }
         },
+
 
         {
             "key": "cc",
             "name": "请勿相信视频中广告",
             "type": 3,
             "api": "csp_XPath",
-            "jar" : "./spider.jar",
+                "jar": "https://raw.giteeusercontent.com/zhang-dongmin/xpg/raw/master/spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
