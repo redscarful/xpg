@@ -320,7 +320,7 @@
     },
               {
       "key" : "alllive1",
-      "name" : "🎮一直播┃直播",
+      "name" : "游戏┃直播",
       "type" : 3,
       "api" : "csp_Alllive",
       "style" : {
@@ -334,22 +334,6 @@
       "changeable" : 0,
       "ext" : "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
     },
-       {
-      "key": "alllive",
-      "name": "游戏┃直播",
-      "type": 3,
-      "api": "csp_Alllive",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "timeout": 20,
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "game"
-    },       
 
         {
       "key": "沙雕哔哩",
