@@ -140,7 +140,7 @@
     },
               {
       "key": "Osstexll",
-      "name": "八戒┃高清影视",
+      "name": "八戒┃APP",
       "type": 3,
       "api": "csp_Tounimabi",
       "searchable": 1,
@@ -272,7 +272,7 @@
     },
               {
       "key": "MTV",
-      "name": "🎧┃明星┃MV",
+      "name": "明星┃MV",
       "type": 3,
       "api": "csp_Bili",
       "playerType": 2,
