@@ -319,8 +319,24 @@
       ]
     },
               {
+      "key": "alllive",
+      "name": "游戏┃直播",
+      "type": 3,
+      "api": "csp_Alllive",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "timeout": 20,
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "game"
+    }
+              {
       "key" : "alllive1",
-      "name" : "游戏┃直播",
+      "name" : "短视频┃直播",
       "type" : 3,
       "api" : "csp_Alllive",
       "style" : {
