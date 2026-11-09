@@ -9,14 +9,14 @@
       "url":"http://38.75.136.137:88/api/tvlist.php",
       "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo":"https://gongdian.top/tv/taibiao/{name}.png",
-      "playerType":2,
+      "playerType":1,
       "timeout":10
       },
 
      {
             "type": 0,
             "name": "易发",
-            "playerType":2,
+            "playerType":1,
             "ua": "okhttp/3.15",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
             "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
@@ -26,7 +26,7 @@
     {
             "type": 0,
             "name": "咪咕标清",
-            "playerType":2,
+            "playerType":1,
             "ua": "okhttp/3.15",
             "url": "http://www.52top.com.cn:678/downloads/migu.txt",
             "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
@@ -35,7 +35,7 @@
     {
             "type": 0,
             "name": "猫影视",
-            "playerType":2,
+            "playerType":1,
             "ua": "okhttp/3.15",
             "url": "http://rihou.cc:567/gggg.nzk",
             "epg": "https://diyp4.112114.xyz/?ch={name}&date={date}",
@@ -47,7 +47,7 @@
         "url": "http://183.131.83.37:40782/屿风眠星辞雾听澜书禾念安知夏遇秋寻冬观月.txt",
         "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
         "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
-        "playerType": 2,
+        "playerType":1,
         "timeout": 10
     },
 
@@ -57,7 +57,7 @@
         "url": "https://gitee.com/yuan301/tv/raw/master/A/z_v.png",
         "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
         "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
-        "playerType": 2,
+        "playerType":1,
         "timeout": 10
     },
     {
@@ -66,7 +66,7 @@
         "url": "https://gitee.com/main-stream/tv/raw/master/BOSS.json",
         "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
         "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
-        "playerType": 2,
+        "playerType":1,
         "timeout": 10
     },
     {
@@ -75,7 +75,7 @@
         "url": "https://live.hacks.tools/tv/iptv4.txt",
         "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
         "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
-        "playerType": 2,
+        "playerType":1,
         "timeout": 10
     },
 
@@ -85,7 +85,7 @@
         "url": "http://iptv.4666888.xyz/FYTV.m3u",
         "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
         "logo": "shturl.cc/3gFCMe8SiIwboe1gRrHxxu{name}.png",
-        "playerType": 2,
+        "playerType":1,
         "timeout": 10
     },
 
