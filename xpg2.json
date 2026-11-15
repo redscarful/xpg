@@ -257,6 +257,19 @@
         "ratio": 1.333
       }
     },
+               {
+      "key": "看球",
+      "name": "看球┃直播",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      }
+    },
               {
       "key": "瓜子",
       "name": "瓜子┃体育",
