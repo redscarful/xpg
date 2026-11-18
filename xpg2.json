@@ -140,9 +140,9 @@
       "ext": "http://v.rbotv.cn"
     },
 
-               {
+        {
       "key": "干饭",
-      "name": "小苹果┃APP",
+      "name": "干饭┃APP",
       "type": 3,
       "api": "csp_AppDrama2",
       "ext": {
@@ -152,7 +152,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.juechufsh.android.xpg1",
         "host": "",
-        "site": "./1.txt",
+        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
         "version": "1.0.0.3",
         "decrypt": "0"
       }
