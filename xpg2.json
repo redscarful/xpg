@@ -350,8 +350,8 @@
       "key": "虎牙js",
       "name": "虎牙┃直播",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
+      "api": "./drpy2.min.js",
+      "ext": "./虎牙.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -366,8 +366,8 @@
       "key": "斗鱼js",
       "name": "斗鱼┃直播",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "api": "./drpy2.min.js",
+      "ext": "./斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
