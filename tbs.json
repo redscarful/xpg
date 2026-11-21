@@ -12,6 +12,15 @@
       "playerType":2,
       "timeout":10
       },
+          {
+      "name":"千寻",
+      "type":0,
+      "url":"http://smzb.bypbwxx.top/zhibo/shengma/%E7%A5%9E%E9%A9%AC99%E7%9B%B4%E6%92%AD.txt",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":1,
+      "timeout":10
+      },
 
      {
             "type": 0,
